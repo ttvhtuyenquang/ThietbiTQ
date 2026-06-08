@@ -857,9 +857,30 @@ category.addEventListener("change", () => renderFields());
 form.addEventListener("submit", saveRecord);
 document.getElementById("btn-new").addEventListener("click", () => resetForm());
 document.getElementById("btn-local-info").addEventListener("click", () => {
-  loadClientInfoFromUrlParams() ||
-    (formStatus.textContent = "Không có thông tin máy trong URL. Hãy chạy file lay_thong_tin.bat trên máy này.",
-     (formStatus.className = "status form-status is-error"));
+  // Bước 1: Thử đọc URL params nếu đã có (trang được mở bởi lay_thong_tin.bat)
+  if (loadClientInfoFromUrlParams()) return;
+
+  // Bước 2: Kích hoạt giao thức vnpost:// → Windows chạy lay_thong_tin.bat
+  formStatus.textContent = "Đang kích hoạt thu thập thông tin máy tính...";
+  formStatus.className = "status form-status";
+
+  try {
+    // Mở custom URI scheme – nếu đã cài install_client_protocol.bat thì Windows
+    // sẽ chạy lay_thong_tin.bat và mở tab mới với form đã điền sẵn thông tin máy.
+    window.location.href = "vnpost://collect";
+  } catch (_) {}
+
+  // Sau 2 giây hiển thị hướng dẫn (tab mới đã được mở, hoặc giao thức chưa cài)
+  setTimeout(() => {
+    formStatus.innerHTML =
+      `<strong>Một cửa sổ mới đã được mở với thông tin máy đã điền sẵn.</strong><br>
+       Hãy điền tiếp thông tin người sử dụng trong cửa sổ đó rồi nhấn <em>Gửi phiếu</em>.<br>
+       <br>
+       <small>⚠️ Nếu không có gì xảy ra: chưa cài giao thức <code>vnpost://</code>.<br>
+       → Chạy file <strong>install_client_protocol.bat</strong> một lần trên máy này,<br>
+       &nbsp;&nbsp;hoặc chạy thủ công <strong>lay_thong_tin.bat</strong> rồi quay lại trang.</small>`;
+    formStatus.className = "status form-status is-success";
+  }, 2000);
 });
 search.addEventListener("input", renderRecords);
 categoryFilter.addEventListener("change", renderRecords);

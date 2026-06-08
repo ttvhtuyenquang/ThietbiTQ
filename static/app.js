@@ -857,30 +857,45 @@ category.addEventListener("change", () => renderFields());
 form.addEventListener("submit", saveRecord);
 document.getElementById("btn-new").addEventListener("click", () => resetForm());
 document.getElementById("btn-local-info").addEventListener("click", () => {
-  // Bước 1: Thử đọc URL params nếu đã có (trang được mở bởi lay_thong_tin.bat)
+  // Bước 1: Nếu URL đã có params (mở bởi bat file) → điền ngay, không làm gì thêm
   if (loadClientInfoFromUrlParams()) return;
 
-  // Bước 2: Kích hoạt giao thức vnpost:// → Windows chạy lay_thong_tin.bat
+  // Bước 2: Thử kích hoạt giao thức vnpost:// (chạy bat file trong nền)
   formStatus.textContent = "Đang kích hoạt thu thập thông tin máy tính...";
   formStatus.className = "status form-status";
 
-  try {
-    // Mở custom URI scheme – nếu đã cài install_client_protocol.bat thì Windows
-    // sẽ chạy lay_thong_tin.bat và mở tab mới với form đã điền sẵn thông tin máy.
-    window.location.href = "vnpost://collect";
-  } catch (_) {}
+  // Thử mở protocol – nếu đã đăng ký thì Windows chạy bat và mở tab mới
+  const iframe = document.createElement("iframe");
+  iframe.style.display = "none";
+  iframe.src = "vnpost://collect";
+  document.body.appendChild(iframe);
+  setTimeout(() => document.body.removeChild(iframe), 3000);
 
-  // Sau 2 giây hiển thị hướng dẫn (tab mới đã được mở, hoặc giao thức chưa cài)
+  // Sau 2.5 giây: kiểm tra xem tab mới có xuất hiện không
+  // Nếu không → tự động tải file lay_thong_tin.bat từ GitHub (không cần admin gửi file)
   setTimeout(() => {
-    formStatus.innerHTML =
-      `<strong>Một cửa sổ mới đã được mở với thông tin máy đã điền sẵn.</strong><br>
-       Hãy điền tiếp thông tin người sử dụng trong cửa sổ đó rồi nhấn <em>Gửi phiếu</em>.<br>
-       <br>
-       <small>⚠️ Nếu không có gì xảy ra: chưa cài giao thức <code>vnpost://</code>.<br>
-       → Chạy file <strong>install_client_protocol.bat</strong> một lần trên máy này,<br>
-       &nbsp;&nbsp;hoặc chạy thủ công <strong>lay_thong_tin.bat</strong> rồi quay lại trang.</small>`;
+    const RAW_BAT_URL =
+      "https://raw.githubusercontent.com/nguyennam90/Check_thiet_bi/main/lay_thong_tin.bat";
+
+    formStatus.innerHTML = `
+      <div class="auto-setup">
+        <strong>🔧 Đang tự động chuẩn bị...</strong><br>
+        Hệ thống đang tải công cụ thu thập thông tin về máy bạn.
+        Hãy <strong>chạy file vừa tải xuống</strong> (lay_thong_tin.bat) —
+        file sẽ tự thiết lập và mở form đã điền sẵn thông tin máy.<br>
+        <small style="opacity:.7">Sau lần đầu tiên, nút này sẽ hoạt động tự động không cần tải lại.</small>
+      </div>`;
     formStatus.className = "status form-status is-success";
-  }, 2000);
+
+    // Tự động kích hoạt download — nhân viên không cần tìm file ở đâu
+    const a = document.createElement("a");
+    a.href = RAW_BAT_URL;
+    a.download = "lay_thong_tin.bat";
+    a.style.display = "none";
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => document.body.removeChild(a), 1000);
+  }, 2500);
 });
 search.addEventListener("input", renderRecords);
 categoryFilter.addEventListener("change", renderRecords);

@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "id": "b912a9c2a05b4a2a82ac41187cabc2b3",
+      "id": "2265b199f67a47a5b9a60ca01d85d07a",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "4809",
@@ -9,8 +9,8 @@
         "Mã Bưu cục": "481120",
         "Tên Bưu cục": "Bưu cực VP Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Nguyễn Văn Nam",
-        "Mã HRM": "00027592",
-        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-CFC4MOK",
         "Loại máy": "Laptop",
@@ -28,8 +28,8 @@
         "MAC Address": "B4:0E:DE:2B:2C:D0"
       },
       "attachments": [],
-      "createdAt": "2026-06-08T04:26:02",
-      "updatedAt": "2026-06-08T04:26:02"
+      "createdAt": "2026-06-08T04:27:33",
+      "updatedAt": "2026-06-08T04:27:33"
     }
   ]
 }

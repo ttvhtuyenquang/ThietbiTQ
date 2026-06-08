@@ -186,6 +186,16 @@ async function githubGet(path, token) {
   return res;
 }
 
+// Giải mã base64 UTF-8 đúng cách – atob() chỉ xử lý Latin-1, không xử lý tiếng Việt!
+function decodeBase64UTF8(b64) {
+  const binary = atob(b64.replace(/\n/g, ""));
+  const bytes = new Uint8Array(binary.length);
+  for (let i = 0; i < binary.length; i++) {
+    bytes[i] = binary.charCodeAt(i);
+  }
+  return new TextDecoder("utf-8").decode(bytes);
+}
+
 async function loadInventoryFromGitHub() {
   const token = getWriteToken();
 
@@ -198,8 +208,8 @@ async function loadInventoryFromGitHub() {
       );
       if (res.ok) {
         const data = await res.json();
-        // Nội dung được trả về dưới dạng base64
-        const decoded = atob(data.content.replace(/\n/g, ""));
+        // Dùng decodeBase64UTF8 thay vì atob() để xử lý đúng tiếng Việt
+        const decoded = decodeBase64UTF8(data.content);
         return JSON.parse(decoded);
       }
     } catch { /* fall through to raw URL */ }
@@ -657,7 +667,6 @@ async function loginAdmin(event) {
     sessionStorage.setItem("gh_admin_user", user.login || "");
 
     // Lưu luôn vào localStorage để dùng chung cho việc gửi phiếu (write token)
-    // Quản trị viên thiết lập 1 lần trên máy này
     const saveAsWrite = document.getElementById("chk-save-write-token")?.checked;
     if (saveAsWrite) {
       localStorage.setItem("gh_write_token", token);
@@ -671,6 +680,47 @@ async function loginAdmin(event) {
   } catch (err) {
     adminLoginStatus.textContent = err.message || "Xác thực thất bại.";
   }
+}
+
+function exportExcel() {
+  if (!state.isAdmin) return;
+  const XLSX = window.XLSX;
+  if (!XLSX) { alert("Thư viện SheetJS chưa được tải."); return; }
+  if (!state.records || state.records.length === 0) {
+    alert("Không có dữ liệu để xuất."); return;
+  }
+
+  const wb = XLSX.utils.book_new();
+  const expanded = expandedRecords(state.records);
+
+  // Map category id → schema (cộ định hóa bằng trim() để tránh lỗi khoảng trắng)
+  const schemaMap = new Map(state.schema.map((s) => [s.id.trim(), s]));
+
+  const grouped = new Map(state.schema.map((s) => [s.id.trim(), []]));
+  for (const rec of expanded) {
+    const cat = (rec.category || "").trim();
+    if (grouped.has(cat)) {
+      grouped.get(cat).push(rec);
+    }
+  }
+
+  let sheetCount = 0;
+  for (const schema of state.schema) {
+    const rows = grouped.get(schema.id.trim()) || [];
+    const headers = (schema.fields || []).filter((f) => f !== "STT");
+    const data = [["STT", ...headers]];
+    rows.forEach((rec, idx) => {
+      data.push([idx + 1, ...headers.map((h) => rec.fields?.[h] ?? "")]);
+    });
+    const ws = XLSX.utils.aoa_to_sheet(data);
+
+    // Tên sheet Excel giới hạn 31 ký tự, loại bỏ ký tự không hợp lệ
+    const sheetName = schema.id.replace(/[\[\]\*\/\\\?\:]/g, "").slice(0, 31);
+    XLSX.utils.book_append_sheet(wb, ws, sheetName || `Sheet${++sheetCount}`);
+  }
+
+  const ts = new Date().toISOString().slice(0, 16).replace(/[-T:]/g, "");
+  XLSX.writeFile(wb, `Ra_Soat_Thiet_Bi_CNTT_${ts}.xlsx`);
 }
 
 async function logoutAdmin() {

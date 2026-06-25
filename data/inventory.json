@@ -30,6 +30,53 @@
       "attachments": [],
       "createdAt": "2026-06-24T03:49:33",
       "updatedAt": "2026-06-24T03:49:33"
+    },
+    {
+      "id": "0cf2c6eeb89c45b08e73267690660022",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Mai Thanh Tùng (test)",
+        "Mã HRM": "00064193",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-TUNGMT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXX6",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "689 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.12",
+        "MAC Address": "A0:D3:C1:4D:76:CB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T02:05:04",
+      "updatedAt": "2026-06-25T02:05:04"
     }
   ]
 }

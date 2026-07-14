@@ -219,6 +219,53 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:12:24",
       "updatedAt": "2026-07-14T02:12:24"
+    },
+    {
+      "id": "ddef7fca0ec448e38ad3f15b8947d853",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301000",
+        "Tên Bưu cục": "Bưu cục KHL Yên Sơn",
+        "Họ và tên người sử dụng": "Hà Thanh Quang",
+        "Mã HRM": "00267790",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Yên sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-YSN-GD2-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132RX",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.15.80",
+        "MAC Address": "38:22:E2:18:8A:3E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:13:52",
+      "updatedAt": "2026-07-14T02:13:52"
     }
   ]
 }

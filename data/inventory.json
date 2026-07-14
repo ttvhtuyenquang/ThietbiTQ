@@ -1059,6 +1059,48 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:56:56",
       "updatedAt": "2026-07-14T02:56:56"
+    },
+    {
+      "id": "e346912682f54179893992b0cbde32f6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3055",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "305640",
+        "Tên Bưu cục": "Khai thác Hàm Yên",
+        "Họ và tên người sử dụng": "Đỗ Văn Luân",
+        "Mã HRM": "00258416",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-KT2-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 400 G4 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH734P5MN",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.61",
+        "MAC Address": "40:B0:34:3A:8C:33"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "1806600502431"
+        }
+      ],
+      "createdAt": "2026-07-14T03:00:30",
+      "updatedAt": "2026-07-14T03:00:30"
     }
   ]
 }

@@ -386,6 +386,43 @@
       ],
       "createdAt": "2026-07-14T02:35:02",
       "updatedAt": "2026-07-14T02:35:02"
+    },
+    {
+      "id": "ed28a1f7d1f44633bf7dbabb8af99503",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301440",
+        "Tên Bưu cục": "Văn phòng BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Đoàn Thị Quỳnh Liên",
+        "Mã HRM": "00064239",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-LIENDT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Tower 400 G9 PCI Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE425CG1D",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.20",
+        "MAC Address": "30:13:8B:6D:50:74"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M706n",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:35:47",
+      "updatedAt": "2026-07-14T02:35:47"
     }
   ]
 }

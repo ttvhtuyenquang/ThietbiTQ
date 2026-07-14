@@ -808,6 +808,43 @@
       ],
       "createdAt": "2026-07-14T02:41:30",
       "updatedAt": "2026-07-14T02:41:30"
+    },
+    {
+      "id": "f41a35aa36d94bd6a33021b0d36dff45",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Thu Hoài",
+        "Mã HRM": "00274097",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TCKH-HOAINT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221NJ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.41",
+        "MAC Address": "10:B6:76:9E:20:D3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP6030",
+          "serial": "918468B00892AA21NTLA799904"
+        }
+      ],
+      "createdAt": "2026-07-14T02:42:34",
+      "updatedAt": "2026-07-14T02:42:34"
     }
   ]
 }

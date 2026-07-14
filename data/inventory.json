@@ -77,6 +77,43 @@
       ],
       "createdAt": "2026-06-25T02:05:04",
       "updatedAt": "2026-06-25T02:05:04"
+    },
+    {
+      "id": "0a62ea3bb5a145cf9c58b0f38f19a721",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Bưu điện xã Chiêm Hóa",
+        "Mã Bưu cục": "303826",
+        "Tên Bưu cục": "VP BĐX Chiêm Hóa",
+        "Họ và tên người sử dụng": "Ma Thị Hương Giang",
+        "Mã HRM": "00064377",
+        "Bộ phận / Phòng ban": "VP BĐX Chiêm Hóa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GIANGMT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G4 MT Business PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG9052KXJ",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.100",
+        "MAC Address": "F4:39:09:47:6B:B4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-07-14T02:08:14",
+      "updatedAt": "2026-07-14T02:08:14"
     }
   ]
 }

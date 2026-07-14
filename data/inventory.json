@@ -600,6 +600,37 @@
       ],
       "createdAt": "2026-07-14T02:39:29",
       "updatedAt": "2026-07-14T02:39:29"
+    },
+    {
+      "id": "51a594c066c144fea30546fb0d2cf3b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301440",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Thị Quỳnh Nga",
+        "Mã HRM": "00064190",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-NGANTQ",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV7480J9S",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.10",
+        "MAC Address": "18:60:24:77:DF:1C"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:39:38",
+      "updatedAt": "2026-07-14T02:39:38"
     }
   ]
 }

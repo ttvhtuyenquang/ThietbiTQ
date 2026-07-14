@@ -423,6 +423,37 @@
       ],
       "createdAt": "2026-07-14T02:35:47",
       "updatedAt": "2026-07-14T02:35:47"
+    },
+    {
+      "id": "8892c41b8a7a4a67a71a26e18c660919",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3003047",
+        "Tên Bưu cục": "Bưu điện phường Minh Xuân",
+        "Họ và tên người sử dụng": "Phùng Thị Kim Dung",
+        "Mã HRM": "00064226",
+        "Bộ phận / Phòng ban": "Tổ quản lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-DUNGPTK",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV733166B",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.103",
+        "MAC Address": "18:60:24:70:B9:F1"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:35:56",
+      "updatedAt": "2026-07-14T02:35:56"
     }
   ]
 }

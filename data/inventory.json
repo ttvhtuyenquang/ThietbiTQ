@@ -188,6 +188,37 @@
       ],
       "createdAt": "2026-07-14T02:11:22",
       "updatedAt": "2026-07-14T02:11:22"
+    },
+    {
+      "id": "2613e9ef7f8647e1886ac83e5f727a29",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3033",
+        "Tên Xã": "YÊN SƠN",
+        "Mã Bưu cục": "301954",
+        "Tên Bưu cục": "VỊ TRÍ GĐX",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ PHƯƠNG THẢO",
+        "Mã HRM": "000624248",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "HP",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "HP",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:12:24",
+      "updatedAt": "2026-07-14T02:12:24"
     }
   ]
 }

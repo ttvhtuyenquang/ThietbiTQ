@@ -558,6 +558,48 @@
       ],
       "createdAt": "2026-07-14T02:38:36",
       "updatedAt": "2026-07-14T02:38:36"
+    },
+    {
+      "id": "5e21fb195685430ebaf538ab1c246478",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "305930",
+        "Tên Bưu cục": "Bưu Điện Xã Thái Hòa",
+        "Họ và tên người sử dụng": "Nông Thị Thắm",
+        "Mã HRM": "00064372",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-THA-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE151D0VW",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "C8:5A:CF:03:2E:28"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:39:29",
+      "updatedAt": "2026-07-14T02:39:29"
     }
   ]
 }

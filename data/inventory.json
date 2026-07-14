@@ -1280,6 +1280,43 @@
       ],
       "createdAt": "2026-07-14T03:03:22",
       "updatedAt": "2026-07-14T03:03:22"
+    },
+    {
+      "id": "8618f750d5814590af875a4449c03726",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3055",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "305560",
+        "Tên Bưu cục": "Bưu cục vận hành Hàm Yên",
+        "Họ và tên người sử dụng": "Đỗ Văn Luân",
+        "Mã HRM": "00258416",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-NGANNN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro SFF 280 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE435BTXD",
+        "CPU": "Intel(R) Core(TM) i3-14100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, McAfee",
+        "IP Address": "10.25.44.21",
+        "MAC Address": "24:6A:0E:74:01:8A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T03:05:06",
+      "updatedAt": "2026-07-14T03:05:06"
     }
   ]
 }

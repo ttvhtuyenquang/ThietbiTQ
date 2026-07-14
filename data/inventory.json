@@ -151,6 +151,43 @@
       ],
       "createdAt": "2026-07-14T02:09:49",
       "updatedAt": "2026-07-14T02:09:49"
+    },
+    {
+      "id": "2073d0070805457ba24f1266e6fda53f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3033",
+        "Tên Xã": "Yên Sơn",
+        "Mã Bưu cục": "3033",
+        "Tên Bưu cục": "Yên Sơn",
+        "Họ và tên người sử dụng": "Hoàng Thị Hảo",
+        "Mã HRM": "064626",
+        "Bộ phận / Phòng ban": "Đối soát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-YSN-THUYNTH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop 590-p0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG85053PL",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "883 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.15.104",
+        "MAC Address": "F4:39:09:3B:B2:D4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:11:22",
+      "updatedAt": "2026-07-14T02:11:22"
     }
   ]
 }

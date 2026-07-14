@@ -1177,51 +1177,35 @@
       "updatedAt": "2026-07-14T03:02:25"
     },
     {
-      "id": "6b7b8e87b5c843509c1bf1b493570f33",
+      "id": "f0216a99d6d14e258d964f88495fec07",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3055",
-        "Tên Xã": "HÀM YÊN",
-        "Mã Bưu cục": "305522",
-        "Tên Bưu cục": "KHL HÀM YÊN",
-        "Họ và tên người sử dụng": "NGUYỄN THỊ OANH",
-        "Mã HRM": "00265130",
-        "Bộ phận / Phòng ban": "GDV KHL",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "TQG-HYN-GD2-02",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC5231LY9",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft Office Office 64-bit Components 2007",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.25.44.20",
-        "MAC Address": "F8:ED:FC:6A:71:55"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-07-14T03:03:02",
-      "updatedAt": "2026-07-14T03:03:02"
+      "attachments": [],
+      "createdAt": "2026-07-14T03:03:03",
+      "updatedAt": "2026-07-14T03:03:03"
     }
   ]
 }

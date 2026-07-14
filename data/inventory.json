@@ -1101,6 +1101,43 @@
       ],
       "createdAt": "2026-07-14T03:00:30",
       "updatedAt": "2026-07-14T03:00:30"
+    },
+    {
+      "id": "7b667e70ea1e459f85436ba1c7c0b748",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "305500",
+        "Tên Bưu cục": "Bưu điện xã Hàm Yên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hiền",
+        "Mã HRM": "00258075",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-HIENNTT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop 590-p0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG85053VP",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.151",
+        "MAC Address": "F4:39:09:3B:B6:45"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "LBP 2900"
+        }
+      ],
+      "createdAt": "2026-07-14T03:01:15",
+      "updatedAt": "2026-07-14T03:01:15"
     }
   ]
 }

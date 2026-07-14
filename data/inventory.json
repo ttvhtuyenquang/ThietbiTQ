@@ -1693,6 +1693,37 @@
       "attachments": [],
       "createdAt": "2026-07-14T04:30:32",
       "updatedAt": "2026-07-14T04:30:32"
+    },
+    {
+      "id": "4d2e3a4ecc294d66aae931bbf25a410c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Lê Ngọc Toàn",
+        "Mã HRM": "00020952",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-KHKD-TOANLN",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP 280 G1 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH526RM57",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.95.136",
+        "MAC Address": "8C:DC:D4:44:15:B9"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T07:28:32",
+      "updatedAt": "2026-07-14T07:28:32"
     }
   ]
 }

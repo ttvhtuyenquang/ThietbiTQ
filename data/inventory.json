@@ -1243,6 +1243,43 @@
       ],
       "createdAt": "2026-07-14T03:03:20",
       "updatedAt": "2026-07-14T03:03:20"
+    },
+    {
+      "id": "fdc512a033c249d2889ae5cb3bb48553",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3055",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "305500",
+        "Tên Bưu cục": "Bưu điện xã Hàm Yên",
+        "Họ và tên người sử dụng": "Trần Thị Phượng",
+        "Mã HRM": "00269431",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-GD2-06",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LP6",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.82",
+        "MAC Address": "F8:ED:FC:6A:6F:C1"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T03:03:22",
+      "updatedAt": "2026-07-14T03:03:22"
     }
   ]
 }

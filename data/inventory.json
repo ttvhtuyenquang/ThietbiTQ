@@ -662,6 +662,37 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:39:42",
       "updatedAt": "2026-07-14T02:39:42"
+    },
+    {
+      "id": "fbca0dee2ce0407ea030c94b4caccaa8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "305870",
+        "Tên Bưu cục": "KILOMET31",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ HIÊN",
+        "Mã HRM": "00064364",
+        "Bộ phận / Phòng ban": "KILOMET31",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-KM31-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 4300 SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH317QVB7",
+        "CPU": "Intel(R) Celeron(R) CPU G1610 @ 2.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.59.7",
+        "MAC Address": "78:E3:B5:BF:90:2A"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:40:37",
+      "updatedAt": "2026-07-14T02:40:37"
     }
   ]
 }

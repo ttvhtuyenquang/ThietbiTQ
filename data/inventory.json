@@ -1028,6 +1028,37 @@
       ],
       "createdAt": "2026-07-14T02:56:20",
       "updatedAt": "2026-07-14T02:56:20"
+    },
+    {
+      "id": "ed17b212e1ff4846956a64ee3c1dfbb7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
+        "Mã HRM": "00020938",
+        "Bộ phận / Phòng ban": "GSĐH/ TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TTVH-GIANGN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LQJ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.21",
+        "MAC Address": "F8:ED:FC:6A:71:27"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:56:56",
+      "updatedAt": "2026-07-14T02:56:56"
     }
   ]
 }

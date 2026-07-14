@@ -1797,6 +1797,48 @@
       ],
       "createdAt": "2026-07-14T10:32:40",
       "updatedAt": "2026-07-14T10:32:40"
+    },
+    {
+      "id": "864e02015ab04731a56428d8330e48c5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Minh Quang",
+        "Tên Xã": "Minh Quang",
+        "Mã Bưu cục": "304080",
+        "Tên Bưu cục": "Phúc Sơn",
+        "Họ và tên người sử dụng": "Triệu Văn Hiển",
+        "Mã HRM": "00105579",
+        "Bộ phận / Phòng ban": "Nhân Viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Samsung",
+        "Loại máy": "SyncMaster B1930",
+        "Hãng": "Samsung",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "Ds2208"
+        }
+      ],
+      "createdAt": "2026-07-14T13:13:15",
+      "updatedAt": "2026-07-14T13:13:15"
     }
   ]
 }

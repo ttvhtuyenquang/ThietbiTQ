@@ -1625,6 +1625,43 @@
       ],
       "createdAt": "2026-07-14T03:51:52",
       "updatedAt": "2026-07-14T03:51:52"
+    },
+    {
+      "id": "8ffd8e94b08b47d7a764e5c8f5709654",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hồng",
+        "Mã HRM": "00064185",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-HONGNT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXVD",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "689 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.85",
+        "MAC Address": "A0:D3:C1:4D:79:BE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro M706n",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T04:21:34",
+      "updatedAt": "2026-07-14T04:21:34"
     }
   ]
 }

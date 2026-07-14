@@ -1500,6 +1500,37 @@
       ],
       "createdAt": "2026-07-14T03:33:30",
       "updatedAt": "2026-07-14T03:33:30"
+    },
+    {
+      "id": "d06a9e74b73046299f607fd0c78b44e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BDT",
+        "Họ và tên người sử dụng": "Phạm Thúy Vinh",
+        "Mã HRM": "00064210",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KHKD-VINHPT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop 390-0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG8352HGS",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.80",
+        "MAC Address": "F4:39:09:21:8B:4C"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T03:40:11",
+      "updatedAt": "2026-07-14T03:40:11"
     }
   ]
 }

@@ -114,6 +114,43 @@
       ],
       "createdAt": "2026-07-14T02:08:14",
       "updatedAt": "2026-07-14T02:08:14"
+    },
+    {
+      "id": "f345243bb9104281ad13620e7ebd0616",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3033",
+        "Tên Bưu cục": "Bưu điện xã Yên Sơn",
+        "Họ và tên người sử dụng": "Vương Hoài Thu",
+        "Mã HRM": "00064393",
+        "Bộ phận / Phòng ban": "Phòng kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-YSN-TRANGTT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LYR",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.15.103",
+        "MAC Address": "F8:ED:FC:6A:71:4C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:09:49",
+      "updatedAt": "2026-07-14T02:09:49"
     }
   ]
 }

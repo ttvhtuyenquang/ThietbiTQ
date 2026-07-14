@@ -1416,6 +1416,48 @@
       ],
       "createdAt": "2026-07-14T03:10:24",
       "updatedAt": "2026-07-14T03:10:24"
+    },
+    {
+      "id": "3dfdeca452dc4312917394f9daa826e0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "301580",
+        "Tên Xã": "Xã Thái Bình",
+        "Mã Bưu cục": "301580",
+        "Tên Bưu cục": "BĐVHX tiến bộ",
+        "Họ và tên người sử dụng": "Nguyễn Thị liên",
+        "Mã HRM": "00064659",
+        "Bộ phận / Phòng ban": "nhân viên bưu điện vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "máy tính HP",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in ca non",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T03:15:42",
+      "updatedAt": "2026-07-14T03:15:42"
     }
   ]
 }

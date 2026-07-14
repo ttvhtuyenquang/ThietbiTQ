@@ -349,6 +349,43 @@
       ],
       "createdAt": "2026-07-14T02:33:57",
       "updatedAt": "2026-07-14T02:33:57"
+    },
+    {
+      "id": "9e1e2c056c174e4d8713b49d7972e685",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301440",
+        "Tên Bưu cục": "Văn phòng BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Hoa Phượng",
+        "Mã HRM": "00064179",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-PHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011335M",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.15",
+        "MAC Address": "38:22:E2:18:85:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:35:02",
+      "updatedAt": "2026-07-14T02:35:02"
     }
   ]
 }

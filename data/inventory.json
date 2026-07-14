@@ -693,6 +693,37 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:40:37",
       "updatedAt": "2026-07-14T02:40:37"
+    },
+    {
+      "id": "b83a2221afa14458904e70d427399ea5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Hoàng Thị Đồng",
+        "Mã HRM": "00064380",
+        "Bộ phận / Phòng ban": "Văn Phòng BĐT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KHKD-DONGHT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE8192DLV",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.88",
+        "MAC Address": "18:60:24:A2:6D:C2"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:41:16",
+      "updatedAt": "2026-07-14T02:41:16"
     }
   ]
 }

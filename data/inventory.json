@@ -485,6 +485,37 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:36:09",
       "updatedAt": "2026-07-14T02:36:09"
+    },
+    {
+      "id": "6aaea8492ff14d0bb9cc6948f3dd4eea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Đinh Thị Bích Thảo",
+        "Mã HRM": "00064191",
+        "Bộ phận / Phòng ban": "CSKH- TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-THAODT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXTF",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.11",
+        "MAC Address": "A0:D3:C1:4D:79:10"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:38:18",
+      "updatedAt": "2026-07-14T02:38:18"
     }
   ]
 }

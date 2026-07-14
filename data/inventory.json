@@ -1724,6 +1724,37 @@
       "attachments": [],
       "createdAt": "2026-07-14T07:28:32",
       "updatedAt": "2026-07-14T07:28:32"
+    },
+    {
+      "id": "223a8aac9ac54a8194d095adefa19fcd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Thị Yến Độ",
+        "Mã HRM": "00020949",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-KHKD-DONTY",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP 280 G1 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH526RM53",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "1,9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.103.155",
+        "MAC Address": "8C:DC:D4:36:F5:43"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T07:29:10",
+      "updatedAt": "2026-07-14T07:29:10"
     }
   ]
 }

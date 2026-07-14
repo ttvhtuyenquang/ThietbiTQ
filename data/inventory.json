@@ -266,6 +266,37 @@
       ],
       "createdAt": "2026-07-14T02:13:52",
       "updatedAt": "2026-07-14T02:13:52"
+    },
+    {
+      "id": "0f1e38588e1343a68c2cb2f96ce26a79",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3025",
+        "Tên Bưu cục": "BĐX Thái Hòa",
+        "Họ và tên người sử dụng": "Phạm Bích Phương",
+        "Mã HRM": "00250534",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-PHUONGP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop 590-p0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG8508KCS",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.88",
+        "MAC Address": "F4:39:09:3C:32:98"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T02:27:26",
+      "updatedAt": "2026-07-14T02:27:26"
     }
   ]
 }

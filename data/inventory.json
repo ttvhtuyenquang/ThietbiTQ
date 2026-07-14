@@ -766,6 +766,48 @@
       ],
       "createdAt": "2026-07-14T02:41:27",
       "updatedAt": "2026-07-14T02:41:27"
+    },
+    {
+      "id": "174b661a03b04872845f6833dfa310b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "vhx Nhân Mục",
+        "Tên Xã": "Nhân Mục",
+        "Mã Bưu cục": "305800",
+        "Tên Bưu cục": "Điểm BĐVH Nhân Mục",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Nghiệp",
+        "Mã HRM": "00064360",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-NMC-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH447SHT6",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "34:64:A9:0E:D4:1A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:41:30",
+      "updatedAt": "2026-07-14T02:41:30"
     }
   ]
 }

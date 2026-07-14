@@ -1317,6 +1317,37 @@
       ],
       "createdAt": "2026-07-14T03:05:06",
       "updatedAt": "2026-07-14T03:05:06"
+    },
+    {
+      "id": "d92ea69eb6354647bfc191f5c87067bf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3022",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "3055",
+        "Tên Bưu cục": "BC Hàm Yên",
+        "Họ và tên người sử dụng": "ĐẶNG VĂN NAM",
+        "Mã HRM": "00271798",
+        "Bộ phận / Phòng ban": "Phòng Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-QUYNHTT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7353BZW",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.157",
+        "MAC Address": "40:B0:34:41:00:BD"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-14T03:06:01",
+      "updatedAt": "2026-07-14T03:06:01"
     }
   ]
 }

@@ -991,6 +991,43 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:54:59",
       "updatedAt": "2026-07-14T02:54:59"
+    },
+    {
+      "id": "3f545a2142134e3c80ef9a0ffac230cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301120",
+        "Tên Bưu cục": "NÔNG TIẾN",
+        "Họ và tên người sử dụng": "PHẠM NGỌC ANH",
+        "Mã HRM": "00262357",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-NTN-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "F04GHJ2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.58.8",
+        "MAC Address": "48:4D:7E:C9:49:82"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "APOS",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:56:20",
+      "updatedAt": "2026-07-14T02:56:20"
     }
   ]
 }

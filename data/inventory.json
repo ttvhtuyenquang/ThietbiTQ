@@ -516,6 +516,48 @@
       "attachments": [],
       "createdAt": "2026-07-14T02:38:18",
       "updatedAt": "2026-07-14T02:38:18"
+    },
+    {
+      "id": "736c3f7f2eb14d68ac5351f505807e1e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "305930",
+        "Tên Bưu cục": "VHX Thái Hòa",
+        "Họ và tên người sử dụng": "Phạm Thị Lý",
+        "Mã HRM": "00093971",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-THA-03",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE313BBJM",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.114",
+        "MAC Address": "7C:57:58:CE:BD:DB"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Apos",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T02:38:36",
+      "updatedAt": "2026-07-14T02:38:36"
     }
   ]
 }

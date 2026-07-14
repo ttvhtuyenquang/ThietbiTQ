@@ -1755,6 +1755,48 @@
       "attachments": [],
       "createdAt": "2026-07-14T07:29:10",
       "updatedAt": "2026-07-14T07:29:10"
+    },
+    {
+      "id": "d2da986e16604d8286ede76b2b3b7ae6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "305870",
+        "Tên Xã": "THÁI SƠN",
+        "Mã Bưu cục": "305870",
+        "Tên Bưu cục": "KILÔMÉT 31",
+        "Họ và tên người sử dụng": "TẠ THỊ HIỀN",
+        "Mã HRM": "00104547",
+        "Bộ phận / Phòng ban": "BC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-KM31-04",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221N0",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.59.10",
+        "MAC Address": "10:B6:76:9E:22:CB"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-14T10:32:40",
+      "updatedAt": "2026-07-14T10:32:40"
     }
   ]
 }

@@ -3105,20 +3105,20 @@
       "updatedAt": "2026-07-15T04:26:45"
     },
     {
-      "id": "92f722ed1ca144d0b9de2d7a61d528fe",
+      "id": "ba29968a99e04fee985b927d4a2c1f49",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "313210",
-        "Tên Xã": "Xã Tùng Vài",
-        "Mã Bưu cục": "313210",
-        "Tên Bưu cục": "Vhx Tùng Vài",
-        "Họ và tên người sử dụng": "Viên Tiến Canh",
-        "Mã HRM": "00021227",
-        "Bộ phận / Phòng ban": "Vhx",
-        "Mã vật tư": "Máy tính",
-        "Tên máy (Hostname)": "Optiplex 5060",
-        "Loại máy": "Để bàn",
-        "Hãng": "Dell",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
@@ -3131,25 +3131,9 @@
         "IP Address": "",
         "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Laserjet pro",
-          "serial": "M203d"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "Mpos",
-          "serial": "S85"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Antech",
-          "serial": "Sa1280i"
-        }
-      ],
-      "createdAt": "2026-07-15T04:34:40",
-      "updatedAt": "2026-07-15T04:34:40"
+      "attachments": [],
+      "createdAt": "2026-07-15T04:34:42",
+      "updatedAt": "2026-07-15T04:34:42"
     }
   ]
 }

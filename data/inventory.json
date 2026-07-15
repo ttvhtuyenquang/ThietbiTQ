@@ -2038,6 +2038,37 @@
       "attachments": [],
       "createdAt": "2026-07-15T01:52:34",
       "updatedAt": "2026-07-15T01:52:34"
+    },
+    {
+      "id": "e5180c349cba42b0ab66add7e17f0f66",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3039",
+        "Tên Xã": "Bình Ca",
+        "Mã Bưu cục": "303010",
+        "Tên Bưu cục": "Chợ Xoan",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hằng",
+        "Mã HRM": "00064550",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-CCU-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7353BWH",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "641 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.53.155",
+        "MAC Address": "24:2F:D0:8A:6B:12"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-15T01:53:44",
+      "updatedAt": "2026-07-15T01:53:44"
     }
   ]
 }

@@ -2069,6 +2069,38 @@
       "attachments": [],
       "createdAt": "2026-07-15T01:53:44",
       "updatedAt": "2026-07-15T01:53:44"
+    },
+    {
+      "id": "d723aa270f744a00a2ab7743b509a792",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "000030",
+        "Tên Tỉnh": "BƯU ĐIỆN TỈNH TUYÊN QUANG",
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313190",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX CAO MÃ PỜ",
+        "Họ và tên người sử dụng": "TẨN THỊ XUÂN",
+        "Mã HRM": "00021226",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "30KG",
+        "Hãng sản xuất": "00021226",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-15T02:27:24",
+      "updatedAt": "2026-07-15T02:27:24"
     }
   ]
 }

@@ -3605,6 +3605,43 @@
       "attachments": [],
       "createdAt": "2026-07-15T08:32:43",
       "updatedAt": "2026-07-15T08:32:43"
+    },
+    {
+      "id": "1aaa2b6bcf8d498d9e77214c080ebea9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3120",
+        "Tên Xã": "Nghĩa Thuận",
+        "Mã Bưu cục": "313170",
+        "Tên Bưu cục": "VHX Nghĩa Thuận",
+        "Họ và tên người sử dụng": "Chương Thị Hoa",
+        "Mã HRM": "00264146",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Y181H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.29.234.13",
+        "MAC Address": "48:4D:7E:D7:D9:2F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T08:58:50",
+      "updatedAt": "2026-07-15T08:58:50"
     }
   ]
 }

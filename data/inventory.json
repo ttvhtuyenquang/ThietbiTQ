@@ -2610,6 +2610,43 @@
       ],
       "createdAt": "2026-07-15T03:27:46",
       "updatedAt": "2026-07-15T03:27:46"
+    },
+    {
+      "id": "fcb7b558583047efb9f8b15a5f8cb1c6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "315050",
+        "Tên Xã": "VĨNH TUY",
+        "Mã Bưu cục": "315050",
+        "Tên Bưu cục": "VĨNH TUY",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Anh Thư",
+        "Mã HRM": "00105346",
+        "Bộ phận / Phòng ban": "BƯU CỤC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BQG-VTY-GD1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2VH60T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "115 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.70.12",
+        "MAC Address": "B8:85:84:AD:33:EB"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:32:10",
+      "updatedAt": "2026-07-15T03:32:10"
     }
   ]
 }

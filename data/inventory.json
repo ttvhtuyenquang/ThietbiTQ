@@ -2007,6 +2007,37 @@
       ],
       "createdAt": "2026-07-15T01:39:42",
       "updatedAt": "2026-07-15T01:39:42"
+    },
+    {
+      "id": "237bea9744224e009dc205efb9092966",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3039",
+        "Tên Xã": "Bình Ca",
+        "Mã Bưu cục": "303010",
+        "Tên Bưu cục": "Chợ Xoan",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hằng",
+        "Mã HRM": "00064550",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "máy tính HP",
+        "Loại máy": "máy để bàn",
+        "Hãng": "Hp",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-15T01:52:34",
+      "updatedAt": "2026-07-15T01:52:34"
     }
   ]
 }

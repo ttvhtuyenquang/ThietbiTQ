@@ -2311,6 +2311,53 @@
       ],
       "createdAt": "2026-07-15T03:01:40",
       "updatedAt": "2026-07-15T03:01:40"
+    },
+    {
+      "id": "ad4d7d355ee14510b089fdc77df49554",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "313280",
+        "Tên Bưu cục": "Bưu điện văn hoá xã lùng tám",
+        "Họ và tên người sử dụng": "Cao Sáng Hiếu",
+        "Mã HRM": "00275894",
+        "Bộ phận / Phòng ban": "Nhân viên văn hoá xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-6NI9FG2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZXR8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "B8:85:84:B1:00:14"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP- Laser Jet Pro M201 dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPrinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "KAW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:02:27",
+      "updatedAt": "2026-07-15T03:02:27"
     }
   ]
 }

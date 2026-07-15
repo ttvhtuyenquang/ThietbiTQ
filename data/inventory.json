@@ -2138,6 +2138,43 @@
       ],
       "createdAt": "2026-07-15T02:33:58",
       "updatedAt": "2026-07-15T02:33:58"
+    },
+    {
+      "id": "eda9b4cfc1f74315bbd39fb583a34878",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3003",
+        "Tên Xã": "Bình An",
+        "Mã Bưu cục": "306320",
+        "Tên Bưu cục": "Bưu điện văn hóa Bình An",
+        "Họ và tên người sử dụng": "Ma Công Hà",
+        "Mã HRM": "00273866",
+        "Bộ phận / Phòng ban": "Nhân viên điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-NHG-BAN-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1PF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "64:00:6A:00:2C:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T02:40:58",
+      "updatedAt": "2026-07-15T02:40:58"
     }
   ]
 }

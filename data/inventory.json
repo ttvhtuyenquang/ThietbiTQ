@@ -2694,6 +2694,37 @@
       ],
       "createdAt": "2026-07-15T03:45:20",
       "updatedAt": "2026-07-15T03:45:20"
+    },
+    {
+      "id": "c20ece04f0014c77b05ca2dce65e58f2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "311408",
+        "Tên Xã": "ĐƯỜNG HỒNG",
+        "Mã Bưu cục": "311408",
+        "Tên Bưu cục": "VHX ĐƯỜNG HỒNG",
+        "Họ và tên người sử dụng": "HOÀNG THỊ BÊN",
+        "Mã HRM": "00020995",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BME-VHX-DHG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 IoT Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "10:FF:E0:02:C5:B9"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-15T03:51:43",
+      "updatedAt": "2026-07-15T03:51:43"
     }
   ]
 }

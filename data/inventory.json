@@ -1876,6 +1876,48 @@
       ],
       "createdAt": "2026-07-15T01:17:56",
       "updatedAt": "2026-07-15T01:17:56"
+    },
+    {
+      "id": "1de2303177994cfd91b75cc6e43e7771",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303470",
+        "Tên Bưu cục": "Bưu cục Sơn Nam",
+        "Họ và tên người sử dụng": "Đinh Thị Phương",
+        "Mã HRM": "00064611",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-SNM-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE313BCV1",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.52.7",
+        "MAC Address": "F0:A6:54:C7:22:1F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T01:38:56",
+      "updatedAt": "2026-07-15T01:38:56"
     }
   ]
 }

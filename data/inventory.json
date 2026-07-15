@@ -3171,6 +3171,37 @@
       ],
       "createdAt": "2026-07-15T07:53:55",
       "updatedAt": "2026-07-15T07:53:55"
+    },
+    {
+      "id": "aa7ac19e864047d6a76696564746ac8e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Chiêm Hóa",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "Chiêm Hóa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thảo",
+        "Mã HRM": "00064395",
+        "Bộ phận / Phòng ban": "Giao dịch (Kiểm soát viên)",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-07",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV7480J95",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.22",
+        "MAC Address": "18:60:24:77:FC:05"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-15T08:08:11",
+      "updatedAt": "2026-07-15T08:08:11"
     }
   ]
 }

@@ -2999,6 +2999,48 @@
       ],
       "createdAt": "2026-07-15T04:17:35",
       "updatedAt": "2026-07-15T04:17:35"
+    },
+    {
+      "id": "95b7f57b57084792b21788f61d8f67f0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3053",
+        "Tên Xã": "Tân An",
+        "Mã Bưu cục": "304240",
+        "Tên Bưu cục": "Điểm BĐ VHX Tân An",
+        "Họ và tên người sử dụng": "Hà Kim Tọng",
+        "Mã HRM": "00064460",
+        "Bộ phận / Phòng ban": "Điểm BĐ VHX Tân An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-TAN-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP PRODESK 600 G5 BASE MODEL DESKTOP MINI PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132G9",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "E8:D8:D1:56:EF:7F"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T04:19:59",
+      "updatedAt": "2026-07-15T04:19:59"
     }
   ]
 }

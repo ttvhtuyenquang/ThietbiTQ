@@ -2489,6 +2489,53 @@
       ],
       "createdAt": "2026-07-15T03:09:59",
       "updatedAt": "2026-07-15T03:09:59"
+    },
+    {
+      "id": "496484666b2442e0a3ed68e2d41a6856",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3120",
+        "Tên Xã": "nghĩa thuận",
+        "Mã Bưu cục": "313130",
+        "Tên Bưu cục": "vhx thanh vân",
+        "Họ và tên người sử dụng": "hùng thị thúy",
+        "Mã HRM": "00229896",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-QBA-VHX-TVN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2V8B0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "B8:85:84:AB:2D:29"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB60308",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "KAW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:22:00",
+      "updatedAt": "2026-07-15T03:22:00"
     }
   ]
 }

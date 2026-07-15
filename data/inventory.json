@@ -2536,6 +2536,43 @@
       ],
       "createdAt": "2026-07-15T03:22:00",
       "updatedAt": "2026-07-15T03:22:00"
+    },
+    {
+      "id": "45a96ab028944e238a8fb634d5611bea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "315050",
+        "Tên Xã": "Vĩnh Tuy",
+        "Mã Bưu cục": "315050",
+        "Tên Bưu cục": "Vĩnh Tuy",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Anh Thư",
+        "Mã HRM": "00105346",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "MÁY BÀN",
+        "Hãng": "DELL",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD620 ZEBRA",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:25:06",
+      "updatedAt": "2026-07-15T03:25:06"
     }
   ]
 }

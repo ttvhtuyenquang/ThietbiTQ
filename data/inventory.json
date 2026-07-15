@@ -2222,6 +2222,48 @@
       ],
       "createdAt": "2026-07-15T02:52:02",
       "updatedAt": "2026-07-15T02:52:02"
+    },
+    {
+      "id": "6bb5066be3844811903accb04880d38e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "313130",
+        "Tên Bưu cục": "vhx thanh vân",
+        "Họ và tên người sử dụng": "hùng thị thúy",
+        "Mã HRM": "00229896",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-QBA-VHX-TVN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2V8B0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "B8:85:84:AB:2D:29"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "kavv",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:00:41",
+      "updatedAt": "2026-07-15T03:00:41"
     }
   ]
 }

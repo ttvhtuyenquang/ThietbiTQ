@@ -2725,6 +2725,43 @@
       "attachments": [],
       "createdAt": "2026-07-15T03:51:43",
       "updatedAt": "2026-07-15T03:51:43"
+    },
+    {
+      "id": "d263e21b7b04404ca5fb8e5426f792e4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Chiêm Hóa",
+        "Mã Bưu cục": "303826",
+        "Tên Bưu cục": "VP BĐX Chiêm Hóa",
+        "Họ và tên người sử dụng": "Đoàn Thị Mai Hương",
+        "Mã HRM": "00087427",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-HUONGDT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LTV",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.25.42.51",
+        "MAC Address": "F8:ED:FC:6A:70:41"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:59:04",
+      "updatedAt": "2026-07-15T03:59:04"
     }
   ]
 }

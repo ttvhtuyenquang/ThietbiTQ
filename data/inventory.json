@@ -2175,6 +2175,53 @@
       ],
       "createdAt": "2026-07-15T02:40:58",
       "updatedAt": "2026-07-15T02:40:58"
+    },
+    {
+      "id": "01db4beed424425f9484edea3d5d28f8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323230",
+        "Tên Bưu cục": "vhx quyết tiến",
+        "Họ và tên người sử dụng": "nguyễn thị thuần",
+        "Mã HRM": "002198009336",
+        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-QBA-VHX-DHA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVPD8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "18:66:DA:28:FB:AA"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T02:52:02",
+      "updatedAt": "2026-07-15T02:52:02"
     }
   ]
 }

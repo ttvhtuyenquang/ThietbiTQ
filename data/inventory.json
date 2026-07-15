@@ -2400,6 +2400,48 @@
       ],
       "createdAt": "2026-07-15T03:02:43",
       "updatedAt": "2026-07-15T03:02:43"
+    },
+    {
+      "id": "7b47e0c5307a49fa9c8fb7446d4975d7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3168",
+        "Tên Xã": "PÀ VẦY SỦ",
+        "Mã Bưu cục": "314400",
+        "Tên Bưu cục": "GD XÍN MẦN",
+        "Họ và tên người sử dụng": "LÈNG THANH CƯƠNG",
+        "Mã HRM": "00021036",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-XMN-BDH-GD3",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq 6200 Pro SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH218R0F4",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.107",
+        "MAC Address": "80:C1:6E:EF:21:65"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:06:55",
+      "updatedAt": "2026-07-15T03:06:55"
     }
   ]
 }

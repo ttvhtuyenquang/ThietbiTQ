@@ -2799,6 +2799,43 @@
       ],
       "createdAt": "2026-07-15T04:01:07",
       "updatedAt": "2026-07-15T04:01:07"
+    },
+    {
+      "id": "5c320db0fe754fa0acc62eb2ec23c6c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Chiêm Hóa",
+        "Mã Bưu cục": "303826",
+        "Tên Bưu cục": "VP BĐX Chiêm Hóa",
+        "Họ và tên người sử dụng": "Ma Khánh Huyền",
+        "Mã HRM": "00230001",
+        "Bộ phận / Phòng ban": "kế toán - thủ quỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-HUYENMK",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE313BCQW",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.52",
+        "MAC Address": "7C:57:58:CF:32:E3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB223dw",
+          "serial": "NXYA123422"
+        }
+      ],
+      "createdAt": "2026-07-15T04:04:22",
+      "updatedAt": "2026-07-15T04:04:22"
     }
   ]
 }

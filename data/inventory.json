@@ -2573,6 +2573,43 @@
       ],
       "createdAt": "2026-07-15T03:25:06",
       "updatedAt": "2026-07-15T03:25:06"
+    },
+    {
+      "id": "1d7cafa9d8d948198961ef6e5bad0da7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "314210",
+        "Tên Bưu cục": "Thông Nguyên",
+        "Họ và tên người sử dụng": "Triệu Mùi Khé",
+        "Mã HRM": "00021173",
+        "Bộ phận / Phòng ban": "Nhân viên điểm VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B1DS8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "447 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "B8:85:84:B1:2A:33"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:27:46",
+      "updatedAt": "2026-07-15T03:27:46"
     }
   ]
 }

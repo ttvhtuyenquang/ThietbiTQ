@@ -2647,6 +2647,53 @@
       ],
       "createdAt": "2026-07-15T03:32:10",
       "updatedAt": "2026-07-15T03:32:10"
+    },
+    {
+      "id": "8b79cebc74c04f1e8cff7e3ed0d0ac26",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3038",
+        "Tên Xã": "BCVH Chiêm Hóa",
+        "Mã Bưu cục": "303840",
+        "Tên Bưu cục": "KT2 Chiêm Hóa",
+        "Họ và tên người sử dụng": "Hoàng Phi Cường",
+        "Mã HRM": "00064425",
+        "Bộ phận / Phòng ban": "Bưu cục khai thác chiêm hóa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-KT2-02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "8Q99H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.61",
+        "MAC Address": "F8:BC:12:A2:D8:6C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA DZ620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Motozola Li4278",
+          "serial": "1504900500977"
+        }
+      ],
+      "createdAt": "2026-07-15T03:45:20",
+      "updatedAt": "2026-07-15T03:45:20"
     }
   ]
 }

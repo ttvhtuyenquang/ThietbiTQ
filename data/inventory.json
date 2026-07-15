@@ -2442,6 +2442,53 @@
       ],
       "createdAt": "2026-07-15T03:06:55",
       "updatedAt": "2026-07-15T03:06:55"
+    },
+    {
+      "id": "bf57663b6b98423e88316c4a2e51cdc8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "314960",
+        "Tên Bưu cục": "Tân Quang",
+        "Họ và tên người sử dụng": "trần nguyễn thu trang",
+        "Mã HRM": "00230040",
+        "Bộ phận / Phòng ban": "Bưu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "case",
+        "Hãng": "Hp",
+        "Model": "Hp Pro mini 400 G9",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter XP-420B",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "Canon 6030",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra - DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:09:59",
+      "updatedAt": "2026-07-15T03:09:59"
     }
   ]
 }

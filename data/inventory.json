@@ -2358,6 +2358,48 @@
       ],
       "createdAt": "2026-07-15T03:02:27",
       "updatedAt": "2026-07-15T03:02:27"
+    },
+    {
+      "id": "21ea811802ec465382a5b09229ea3fc4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "313140",
+        "Tên Bưu cục": "BCVH Quản Bạ",
+        "Họ và tên người sử dụng": "Nguyễn Trung Quyêt",
+        "Mã HRM": "00243896",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BT_GROUP07",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.140.25",
+        "MAC Address": "30:56:0F:55:53:36"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Lase Jet pro M404d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "KAW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:02:43",
+      "updatedAt": "2026-07-15T03:02:43"
     }
   ]
 }

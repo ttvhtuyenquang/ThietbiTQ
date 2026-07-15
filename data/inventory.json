@@ -1965,6 +1965,48 @@
       ],
       "createdAt": "2026-07-15T01:38:52",
       "updatedAt": "2026-07-15T01:38:52"
+    },
+    {
+      "id": "2f2cb301dc964a32b96e99d52cb5e767",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302910",
+        "Tên Bưu cục": "Tân Trào",
+        "Họ và tên người sử dụng": "Nông Thị Chiên",
+        "Mã HRM": "00064337",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-TTO-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXW6",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "691 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.118",
+        "MAC Address": "A0:D3:C1:4D:72:C1"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zdesigner ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol technol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T01:39:42",
+      "updatedAt": "2026-07-15T01:39:42"
     }
   ]
 }

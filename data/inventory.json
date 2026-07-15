@@ -3134,6 +3134,43 @@
       "attachments": [],
       "createdAt": "2026-07-15T04:34:42",
       "updatedAt": "2026-07-15T04:34:42"
+    },
+    {
+      "id": "d25e07c338784e9d913b6f3c94089e8f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302800",
+        "Tên Bưu cục": "BĐX Sơn Dương",
+        "Họ và tên người sử dụng": "Hà Việt Dũng",
+        "Mã HRM": "00016216",
+        "Bộ phận / Phòng ban": "BĐX Sơn Dương",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-DUNGHV",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVQK8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.102",
+        "MAC Address": "18:66:DA:29:07:08"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T07:53:55",
+      "updatedAt": "2026-07-15T07:53:55"
     }
   ]
 }

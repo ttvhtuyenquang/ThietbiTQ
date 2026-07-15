@@ -2264,6 +2264,53 @@
       ],
       "createdAt": "2026-07-15T03:00:41",
       "updatedAt": "2026-07-15T03:00:41"
+    },
+    {
+      "id": "3c591cb453694216aeaf6a6980ee0a4a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3148",
+        "Tên Xã": "Pà Vầy Sủ",
+        "Mã Bưu cục": "314400",
+        "Tên Bưu cục": "Giao dịch Xín Mần",
+        "Họ và tên người sử dụng": "Hoàng Thị Chang",
+        "Mã HRM": "00114393",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-XMN-BDH-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9YTW8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "459 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.104",
+        "MAC Address": "B8:85:84:B0:F5:C3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:01:40",
+      "updatedAt": "2026-07-15T03:01:40"
     }
   ]
 }

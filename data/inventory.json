@@ -2101,6 +2101,43 @@
       "attachments": [],
       "createdAt": "2026-07-15T02:27:24",
       "updatedAt": "2026-07-15T02:27:24"
+    },
+    {
+      "id": "98026990c98d4ea59a2f4d837525b2ee",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3184",
+        "Tên Xã": "Xã Bắc Quang",
+        "Mã Bưu cục": "314800",
+        "Tên Bưu cục": "Bắc Quang",
+        "Họ và tên người sử dụng": "Đồng Thị Thanh THủy",
+        "Mã HRM": "00021077",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BQG-BDH-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9W6Q8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.16",
+        "MAC Address": "B8:85:84:B1:27:AD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "F166500"
+        }
+      ],
+      "createdAt": "2026-07-15T02:33:58",
+      "updatedAt": "2026-07-15T02:33:58"
     }
   ]
 }

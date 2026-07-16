@@ -4488,6 +4488,48 @@
       ],
       "createdAt": "2026-07-16T03:26:04",
       "updatedAt": "2026-07-16T03:26:04"
+    },
+    {
+      "id": "08f55f617dfa46cf875efa555d1f4613",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "Bưu cục Quản Bạ",
+        "Họ và tên người sử dụng": "Viên Hồng Nhất",
+        "Mã HRM": "00021209",
+        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã vật tư": "Máy tính",
+        "Tên máy (Hostname)": "Máy tính bàn",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HP scanjetG3110",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T03:35:12",
+      "updatedAt": "2026-07-16T03:35:12"
     }
   ]
 }

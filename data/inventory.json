@@ -4842,6 +4842,37 @@
       "attachments": [],
       "createdAt": "2026-07-16T03:55:21",
       "updatedAt": "2026-07-16T03:55:21"
+    },
+    {
+      "id": "1cdb8bab035c4d17a937c122b05dc598",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "Chiêm Hóa",
+        "Họ và tên người sử dụng": "Đồng Thanh Huế",
+        "Mã HRM": "00064383",
+        "Bộ phận / Phòng ban": "Tổ kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-HUEDT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE313BCPH",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "460 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Standard 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.97",
+        "MAC Address": "7C:57:58:CF:34:8C"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T03:57:31",
+      "updatedAt": "2026-07-16T03:57:31"
     }
   ]
 }

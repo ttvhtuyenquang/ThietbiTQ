@@ -4915,6 +4915,38 @@
       ],
       "createdAt": "2026-07-16T03:58:15",
       "updatedAt": "2026-07-16T03:58:15"
+    },
+    {
+      "id": "e8b8c6f0feeb4f6fa84ed055f12d704e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "313150",
+        "Tên Xã": "xã Bát Đại Sơn",
+        "Mã Bưu cục": "313120",
+        "Tên Bưu cục": "Bưu điện văn hóa xã Bát Đại Sơn",
+        "Họ và tên người sử dụng": "Phàn Cù Sơn",
+        "Mã HRM": "00274460",
+        "Bộ phận / Phòng ban": "Bưu điện văn hóa xã Bát Đại Sơn",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T07:18:00",
+      "updatedAt": "2026-07-16T07:18:00"
     }
   ]
 }

@@ -4331,6 +4331,48 @@
       "attachments": [],
       "createdAt": "2026-07-16T02:55:50",
       "updatedAt": "2026-07-16T02:55:50"
+    },
+    {
+      "id": "ff3c46ee594348b7a5ffbc4ac53e935a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "313320",
+        "Tên Xã": "lùng tám",
+        "Mã Bưu cục": "313320",
+        "Tên Bưu cục": "bưu điện văn hóa xã thái an",
+        "Họ và tên người sử dụng": "Hạng Hoàng Thân",
+        "Mã HRM": "00261631",
+        "Bộ phận / Phòng ban": "nhân viên buu điện vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-QBA-VHX-TAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9X8Q8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.130",
+        "MAC Address": "B8:85:84:B1:2C:C4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro",
+          "serial": "M203d"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Product",
+          "serial": "model s85"
+        }
+      ],
+      "createdAt": "2026-07-16T03:05:02",
+      "updatedAt": "2026-07-16T03:05:02"
     }
   ]
 }

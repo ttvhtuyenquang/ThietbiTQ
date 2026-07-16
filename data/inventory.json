@@ -4530,6 +4530,38 @@
       ],
       "createdAt": "2026-07-16T03:35:12",
       "updatedAt": "2026-07-16T03:35:12"
+    },
+    {
+      "id": "07147cd9de994018a0236075df8a32ca",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "000030",
+        "Tên Tỉnh": "BƯU ĐIỆN TỈNH TUYÊN QUANG",
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "Bưu cục Quản Bạ",
+        "Họ và tên người sử dụng": "Viên Hồng Nhất",
+        "Mã HRM": "00021209",
+        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã vật tư": "cân điện tử loại 30kg",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử loại 30kg",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T03:36:45",
+      "updatedAt": "2026-07-16T03:36:45"
     }
   ]
 }

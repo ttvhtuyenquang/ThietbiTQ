@@ -4733,6 +4733,53 @@
       "attachments": [],
       "createdAt": "2026-07-16T03:40:58",
       "updatedAt": "2026-07-16T03:40:58"
+    },
+    {
+      "id": "3e7ae6fb867f4c41ae6d75d861b5b309",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "313100",
+        "Tên Xã": "xã quản ba",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "giao dịch quản bạ",
+        "Họ và tên người sử dụng": "nguyễn thị nga",
+        "Mã HRM": "00021229",
+        "Bộ phận / Phòng ban": "giao dịch quản bạ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BT_GROUP08",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.29.140.24",
+        "MAC Address": "30:56:0F:54:CC:A7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "gk420d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "yhd",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T03:42:37",
+      "updatedAt": "2026-07-16T03:42:37"
     }
   ]
 }

@@ -4624,6 +4624,37 @@
       "attachments": [],
       "createdAt": "2026-07-16T03:39:03",
       "updatedAt": "2026-07-16T03:39:03"
+    },
+    {
+      "id": "4792dbc4bcc34366abafa62d4036ddb7",
+      "category": "5. Đầu Đọc Mã Vạch",
+      "fields": {
+        "Mã Tỉnh": "000030",
+        "Tên Tỉnh": "BƯU ĐIỆN TỈNH TUYÊN QUANG",
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "Bưu cục Quản Bạ",
+        "Họ và tên người sử dụng": "Viên Hồng Nhất",
+        "Mã HRM": "00021209",
+        "Bộ phận / Phòng ban": "Quầy gioa dịch",
+        "Mã vật tư": "Máy quét mã vạch không giây",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy quét mã vạch không giây",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Loại đọc": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T03:39:52",
+      "updatedAt": "2026-07-16T03:39:52"
     }
   ]
 }

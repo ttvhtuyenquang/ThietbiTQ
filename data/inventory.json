@@ -3923,6 +3923,48 @@
       ],
       "createdAt": "2026-07-16T02:07:07",
       "updatedAt": "2026-07-16T02:07:07"
+    },
+    {
+      "id": "f629fc399c0b43569f4fc186ee949f1a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3054",
+        "Tên Xã": "xã Tri Phú",
+        "Mã Bưu cục": "304510",
+        "Tên Bưu cục": "Điểm BĐ VHX Tri Phú",
+        "Họ và tên người sử dụng": "Ma Thị Hạc",
+        "Mã HRM": "00064473",
+        "Bộ phận / Phòng ban": "Điểm BĐ VHX Tri Phú",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-TPU-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011334Z",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "38:22:E2:18:92:D7"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T02:11:59",
+      "updatedAt": "2026-07-16T02:11:59"
     }
   ]
 }

@@ -4300,6 +4300,37 @@
       ],
       "createdAt": "2026-07-16T02:45:33",
       "updatedAt": "2026-07-16T02:45:33"
+    },
+    {
+      "id": "eae48ffd77264738b130c6288f52897a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "313190",
+        "Tên Xã": "bưu điện VHX cao mã pờ",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "quản bạ",
+        "Họ và tên người sử dụng": "tẩn thị xuân",
+        "Mã HRM": "00021226",
+        "Bộ phận / Phòng ban": "nhân viên bưu điện kiêm phát xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-QBA-VHX-CMP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B0NN8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.111",
+        "MAC Address": "B8:85:84:B1:26:67"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T02:55:50",
+      "updatedAt": "2026-07-16T02:55:50"
     }
   ]
 }

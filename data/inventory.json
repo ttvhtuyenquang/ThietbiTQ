@@ -3855,6 +3855,37 @@
       "attachments": [],
       "createdAt": "2026-07-16T00:40:07",
       "updatedAt": "2026-07-16T00:40:07"
+    },
+    {
+      "id": "e126ed5b08484e7c9b16abcebdd19ebb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3012",
+        "Tên Bưu cục": "303800_Chiêm Hóa",
+        "Họ và tên người sử dụng": "Lê Thị Tâm",
+        "Mã HRM": "00064671",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-09",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro G2",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE9211CBM",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.83",
+        "MAC Address": "C8:D9:D2:2D:FB:25"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T00:38:47",
+      "updatedAt": "2026-07-16T00:38:47"
     }
   ]
 }

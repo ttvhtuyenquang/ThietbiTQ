@@ -4451,6 +4451,43 @@
       "attachments": [],
       "createdAt": "2026-07-16T03:23:19",
       "updatedAt": "2026-07-16T03:23:19"
+    },
+    {
+      "id": "f2b9ce89fb424786a269dc14df73ecc6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "Bưu cục Quản Bạ",
+        "Họ và tên người sử dụng": "Viên Hồng Nhất",
+        "Mã HRM": "00021209",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "Máy tính",
+        "Tên máy (Hostname)": "laptop",
+        "Loại máy": "laptop",
+        "Hãng": "DELL",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T03:26:04",
+      "updatedAt": "2026-07-16T03:26:04"
     }
   ]
 }

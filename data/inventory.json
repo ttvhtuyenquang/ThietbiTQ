@@ -3777,6 +3777,53 @@
       ],
       "createdAt": "2026-07-15T09:48:41",
       "updatedAt": "2026-07-15T09:48:41"
+    },
+    {
+      "id": "0ccf6ce9dc18474f96d575c21de7c0f8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "Chiêm Hóa",
+        "Họ và tên người sử dụng": "Trần Thị kiều Thư",
+        "Mã HRM": "00218484",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVWJ8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.20",
+        "MAC Address": "18:66:DA:28:A4:22"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebar",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "cano",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T00:40:04",
+      "updatedAt": "2026-07-16T00:40:04"
     }
   ]
 }

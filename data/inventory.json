@@ -4873,6 +4873,48 @@
       "attachments": [],
       "createdAt": "2026-07-16T03:57:31",
       "updatedAt": "2026-07-16T03:57:31"
+    },
+    {
+      "id": "a1eeeaf661cb423f848a690a443f9542",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "310100",
+        "Tên Xã": "BĐVHX Cán Tỷ",
+        "Mã Bưu cục": "310100",
+        "Tên Bưu cục": "BĐVHX Cán Tỷ",
+        "Họ và tên người sử dụng": "Cháng Mí Mua",
+        "Mã HRM": "00267163",
+        "Bộ phận / Phòng ban": "nhân viên văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "optiplex 5060",
+        "Năm sản xuất": "5222019",
+        "Serial Number": "",
+        "CPU": "i3- 8100T",
+        "RAM": "4096MB",
+        "Ổ cứng": "119.24",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell",
+          "serial": "pc45d"
+        },
+        {
+          "type": "photocopier",
+          "name": "hp",
+          "serial": "laser Jet M203d"
+        }
+      ],
+      "createdAt": "2026-07-16T03:58:15",
+      "updatedAt": "2026-07-16T03:58:15"
     }
   ]
 }

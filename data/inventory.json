@@ -4002,6 +4002,48 @@
       ],
       "createdAt": "2026-07-16T02:20:57",
       "updatedAt": "2026-07-16T02:20:57"
+    },
+    {
+      "id": "b51f68f74fc445bd980297e68e9697da",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3051",
+        "Tên Xã": "Xã Tân Mỹ",
+        "Mã Bưu cục": "304020",
+        "Tên Bưu cục": "Điểm BĐ VHX Hùng Mỹ",
+        "Họ và tên người sử dụng": "Ma Duy Nguyên",
+        "Mã HRM": "00064453",
+        "Bộ phận / Phòng ban": "Điểm BĐ VHX Hùng Mỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-HMY-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "2F99H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.136.103",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T02:22:58",
+      "updatedAt": "2026-07-16T02:22:58"
     }
   ]
 }

@@ -4655,6 +4655,53 @@
       "attachments": [],
       "createdAt": "2026-07-16T03:39:52",
       "updatedAt": "2026-07-16T03:39:52"
+    },
+    {
+      "id": "b2c1a7eb957646ca9f38c02535328ded",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "313100",
+        "Họ và tên người sử dụng": "Lệnh Thị Lan",
+        "Mã HRM": "00021220",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BT_GROUP07",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.140.26",
+        "MAC Address": "30:56:0F:54:CE:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "GK420d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T03:40:49",
+      "updatedAt": "2026-07-16T03:40:49"
     }
   ]
 }

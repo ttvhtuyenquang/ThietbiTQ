@@ -3965,6 +3965,43 @@
       ],
       "createdAt": "2026-07-16T02:11:59",
       "updatedAt": "2026-07-16T02:11:59"
+    },
+    {
+      "id": "63894ee5263a49169cb1caff286b1d46",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3038",
+        "Tên Bưu cục": "Bưu cục Vận hành Chiêm Hóa",
+        "Họ và tên người sử dụng": "Lê Thị Khánh Dung",
+        "Mã HRM": "00258412",
+        "Bộ phận / Phòng ban": "KHL Chiêm Hóa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-DUNGLK",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231M05",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.98",
+        "MAC Address": "F8:ED:FC:6A:6F:20"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "cano 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T02:20:57",
+      "updatedAt": "2026-07-16T02:20:57"
     }
   ]
 }

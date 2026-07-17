@@ -5311,6 +5311,53 @@
       ],
       "createdAt": "2026-07-17T02:43:29",
       "updatedAt": "2026-07-17T02:43:29"
+    },
+    {
+      "id": "337492c2a5ee4951ab20ab3e034205d9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3151",
+        "Tên Xã": "BĐX Đồng Yên",
+        "Mã Bưu cục": "315090",
+        "Tên Bưu cục": "BC Đồng Yên",
+        "Họ và tên người sử dụng": "Hoàng Hồng Hạnh",
+        "Mã HRM": "00105289",
+        "Bộ phận / Phòng ban": "Nhân Viên KD Tại Điểm Phục Vụ- BĐKV Bắc Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BQG-DYN-GD1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "7L99H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "510 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.103",
+        "MAC Address": "F8:BC:12:A5:7E:C2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON/LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA / ZD620",
+          "serial": "D3J183400353"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA/DS22",
+          "serial": "25188523702319"
+        }
+      ],
+      "createdAt": "2026-07-17T03:47:05",
+      "updatedAt": "2026-07-17T03:47:05"
     }
   ]
 }

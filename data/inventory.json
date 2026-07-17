@@ -5358,6 +5358,43 @@
       ],
       "createdAt": "2026-07-17T03:47:05",
       "updatedAt": "2026-07-17T03:47:05"
+    },
+    {
+      "id": "dfa776bd24ed464a86a18a49ead59e53",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Hàm Yên",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "0010196",
+        "Tên Bưu cục": "Bưu cục Hàm Yên",
+        "Họ và tên người sử dụng": "Hoàng Diệu Ly",
+        "Mã HRM": "00276457",
+        "Bộ phận / Phòng ban": "Bưu cục Hàm Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-GD2-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 4300 SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH317QVBJ",
+        "CPU": "Intel(R) Celeron(R) CPU G1610 @ 2.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.10",
+        "MAC Address": "78:E3:B5:BF:90:2E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T04:11:45",
+      "updatedAt": "2026-07-17T04:11:45"
     }
   ]
 }

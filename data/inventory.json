@@ -5143,6 +5143,48 @@
       "attachments": [],
       "createdAt": "2026-07-16T10:28:46",
       "updatedAt": "2026-07-16T10:28:46"
+    },
+    {
+      "id": "bf1e6d69d986435a97ec18734dfae6ef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "311550",
+        "Tên Xã": "xã Thắng Mố",
+        "Mã Bưu cục": "311550",
+        "Tên Bưu cục": "Điểm bưu điện văn hóa Sủng Thài xã Thắng Mố",
+        "Họ và tên người sử dụng": "Hoàng Văn Đức",
+        "Mã HRM": "00020968",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "OptiPieX5060",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "Máy cay",
+        "Hãng": "DELL",
+        "Model": "DELL",
+        "Năm sản xuất": "2015",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "Win",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T01:19:48",
+      "updatedAt": "2026-07-17T01:19:48"
     }
   ]
 }

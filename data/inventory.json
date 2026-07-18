@@ -5521,6 +5521,48 @@
       ],
       "createdAt": "2026-07-18T06:54:16",
       "updatedAt": "2026-07-18T06:54:16"
+    },
+    {
+      "id": "375074a4520f46c7a1df989fc1aa5538",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3010",
+        "Tên Xã": "BCVH Tuyên Quang",
+        "Mã Bưu cục": "301070",
+        "Tên Bưu cục": "BCP Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Mai Anh",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "BCP TUyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-PH1-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE146D8GC",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.121",
+        "MAC Address": "50:81:40:23:B9:B1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T06:55:49",
+      "updatedAt": "2026-07-18T06:55:49"
     }
   ]
 }

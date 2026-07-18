@@ -5442,6 +5442,43 @@
       ],
       "createdAt": "2026-07-18T03:41:15",
       "updatedAt": "2026-07-18T03:41:15"
+    },
+    {
+      "id": "ba9078201cee4f8f98a0524d28cce0b3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3010",
+        "Tên Xã": "BCVH Tuyên Quang",
+        "Mã Bưu cục": "301070",
+        "Tên Bưu cục": "BCVH Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Mai Anh",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-PH1-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE146D8CP",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.122",
+        "MAC Address": "50:81:40:23:B3:57"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T06:52:12",
+      "updatedAt": "2026-07-18T06:52:12"
     }
   ]
 }

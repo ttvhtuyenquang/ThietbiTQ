@@ -5936,6 +5936,53 @@
       ],
       "createdAt": "2026-07-18T07:23:51",
       "updatedAt": "2026-07-18T07:23:51"
+    },
+    {
+      "id": "a145206a9ddc431c890fe01a70169e93",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3011",
+        "Tên Xã": "TTKT Tuyên Quang",
+        "Mã Bưu cục": "300100",
+        "Tên Bưu cục": "KTC1 Tuyên Quang",
+        "Họ và tên người sử dụng": "Hán Vĩnh Tưởng",
+        "Mã HRM": "00000002",
+        "Bộ phận / Phòng ban": "BCKT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-13",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZP50T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.113",
+        "MAC Address": "B8:85:84:AB:0B:A5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:26:04",
+      "updatedAt": "2026-07-18T07:26:04"
     }
   ]
 }

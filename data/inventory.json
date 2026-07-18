@@ -5889,6 +5889,53 @@
       ],
       "createdAt": "2026-07-18T07:17:36",
       "updatedAt": "2026-07-18T07:17:36"
+    },
+    {
+      "id": "47b136a4c38e42ba815b6da4bd5f6283",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3011",
+        "Tên Xã": "TTKT Tuyên Quang",
+        "Mã Bưu cục": "300100",
+        "Tên Bưu cục": "KTC1 Tuyên Quang",
+        "Họ và tên người sử dụng": "Hán Vĩnh Tưởng",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "BCKT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-07",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE151D10Y",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.107",
+        "MAC Address": "C8:5A:CF:03:8C:48"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Intermec PC43d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:23:51",
+      "updatedAt": "2026-07-18T07:23:51"
     }
   ]
 }

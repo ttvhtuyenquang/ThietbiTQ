@@ -5563,6 +5563,48 @@
       ],
       "createdAt": "2026-07-18T06:55:49",
       "updatedAt": "2026-07-18T06:55:49"
+    },
+    {
+      "id": "490bd16664bb41018bace10d17ec4290",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3010",
+        "Tên Xã": "BCVH Tuyên Quang",
+        "Mã Bưu cục": "301070",
+        "Tên Bưu cục": "BCP Tuyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Mai Anh",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "BCP Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-PH1-03",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "311D0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.123",
+        "MAC Address": "B8:85:84:AB:0B:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T06:57:50",
+      "updatedAt": "2026-07-18T06:57:50"
     }
   ]
 }

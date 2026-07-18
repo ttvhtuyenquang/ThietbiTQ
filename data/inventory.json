@@ -5810,6 +5810,43 @@
       ],
       "createdAt": "2026-07-18T07:12:55",
       "updatedAt": "2026-07-18T07:12:55"
+    },
+    {
+      "id": "2a4d4571a0b646e58baab3e200cd144b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3011",
+        "Tên Xã": "TTKT Tuyên Quang",
+        "Mã Bưu cục": "300100",
+        "Tên Bưu cục": "KTC1 Tuyên Quang",
+        "Họ và tên người sử dụng": "Hán Vĩnh Tưởng",
+        "Mã HRM": "00000002",
+        "Bộ phận / Phòng ban": "BCKT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-05",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "CXW8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.105",
+        "MAC Address": "F8:BC:12:A6:17:0F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:15:15",
+      "updatedAt": "2026-07-18T07:15:15"
     }
   ]
 }

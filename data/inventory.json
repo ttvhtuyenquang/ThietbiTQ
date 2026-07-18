@@ -5684,6 +5684,48 @@
       ],
       "createdAt": "2026-07-18T07:05:12",
       "updatedAt": "2026-07-18T07:05:12"
+    },
+    {
+      "id": "79b08e50dd514d169dfd1a24ffce6a76",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3011",
+        "Tên Xã": "TTKT Tuyên Quang",
+        "Mã Bưu cục": "300100",
+        "Tên Bưu cục": "KTC1 Tuyên Quang",
+        "Họ và tên người sử dụng": "Hán Vĩnh Tưởng",
+        "Mã HRM": "00000002",
+        "Bộ phận / Phòng ban": "BCKT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-11",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113357",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.25.34.111",
+        "MAC Address": "38:22:E2:18:8F:91"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell PC42d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:08:13",
+      "updatedAt": "2026-07-18T07:08:13"
     }
   ]
 }

@@ -5647,6 +5647,43 @@
       ],
       "createdAt": "2026-07-18T07:00:56",
       "updatedAt": "2026-07-18T07:00:56"
+    },
+    {
+      "id": "74116ec6c1ca4e84a464cd9d255f535c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3010",
+        "Tên Xã": "BCVH Tuyên Quang",
+        "Mã Bưu cục": "301070",
+        "Tên Bưu cục": "BCP TUyên Quang",
+        "Họ và tên người sử dụng": "Nguyễn Mai Anh",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "BCP Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-PH1-05",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP PRODESK 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXY9",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.125",
+        "MAC Address": "34:64:A9:20:12:36"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:05:12",
+      "updatedAt": "2026-07-18T07:05:12"
     }
   ]
 }

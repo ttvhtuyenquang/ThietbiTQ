@@ -5847,6 +5847,48 @@
       ],
       "createdAt": "2026-07-18T07:15:15",
       "updatedAt": "2026-07-18T07:15:15"
+    },
+    {
+      "id": "e478b309bb274dd5b0b7ca205017a5df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3011",
+        "Tên Bưu cục": "TTKT Tuyên Quang",
+        "Họ và tên người sử dụng": "Hán Vĩnh Tưởng",
+        "Mã HRM": "0000002",
+        "Bộ phận / Phòng ban": "BCKT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-02",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXW8",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.102",
+        "MAC Address": "A0:D3:C1:4D:72:C6"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "APOS XP470B",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LI4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:17:36",
+      "updatedAt": "2026-07-18T07:17:36"
     }
   ]
 }

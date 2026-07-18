@@ -5395,6 +5395,53 @@
       ],
       "createdAt": "2026-07-17T04:11:45",
       "updatedAt": "2026-07-17T04:11:45"
+    },
+    {
+      "id": "4d936557c750452fadaff6c2d87ecced",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303830",
+        "Tên Bưu cục": "KHL Chiêm Hóa",
+        "Họ và tên người sử dụng": "Lương Thị Thúy Hồng",
+        "Mã HRM": "00064428",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-KHL-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LK6",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.31",
+        "MAC Address": "10:B6:76:9E:C9:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LBP6030",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell",
+          "serial": "349C25A0320"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "26014B26D8"
+        }
+      ],
+      "createdAt": "2026-07-18T03:41:15",
+      "updatedAt": "2026-07-18T03:41:15"
     }
   ]
 }

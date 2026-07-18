@@ -5726,6 +5726,48 @@
       ],
       "createdAt": "2026-07-18T07:08:13",
       "updatedAt": "2026-07-18T07:08:13"
+    },
+    {
+      "id": "1c215b2568bd42c4955ed589a61e183c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3011",
+        "Tên Xã": "TTKT Tuyên Quang",
+        "Mã Bưu cục": "300100",
+        "Tên Bưu cục": "KTC1 Tuyên Quang",
+        "Họ và tên người sử dụng": "Hán Vĩnh Tưởng",
+        "Mã HRM": "00000002",
+        "Bộ phận / Phòng ban": "BCKT Tuyên Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWYK8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.101",
+        "MAC Address": "18:66:DA:28:AC:1C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell PC42d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:10:02",
+      "updatedAt": "2026-07-18T07:10:02"
     }
   ]
 }

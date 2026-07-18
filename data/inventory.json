@@ -6025,6 +6025,43 @@
       ],
       "createdAt": "2026-07-18T07:28:00",
       "updatedAt": "2026-07-18T07:28:00"
+    },
+    {
+      "id": "0052622b19b4482b8b5e48f5ebeb3323",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3015",
+        "Tên Xã": "BCVH Yên SƠn",
+        "Mã Bưu cục": "301130",
+        "Tên Bưu cục": "BCP Yên Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Mai Anh",
+        "Mã HRM": "00000001",
+        "Bộ phận / Phòng ban": "BCP Yên Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TKV-KT1-12",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXY8",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "2.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.34.112",
+        "MAC Address": "A0:D3:C1:4D:76:B8"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T07:29:27",
+      "updatedAt": "2026-07-18T07:29:27"
     }
   ]
 }

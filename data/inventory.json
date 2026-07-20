@@ -6235,6 +6235,48 @@
       ],
       "createdAt": "2026-07-20T02:09:22",
       "updatedAt": "2026-07-20T02:09:22"
+    },
+    {
+      "id": "5c102bda814b4d769ae88269f6a10350",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Xã Chiêm Hóa",
+        "Mã Bưu cục": "303861",
+        "Tên Bưu cục": "Điểm BĐ VHX Ngọc Hội",
+        "Họ và tên người sử dụng": "Đoàn Thị Phương",
+        "Mã HRM": "00109307",
+        "Bộ phận / Phòng ban": "Điểm BĐ VHX Ngọc Hội",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-NHI-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113280",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "00:E0:4C:36:20:E4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T02:36:15",
+      "updatedAt": "2026-07-20T02:36:15"
     }
   ]
 }

@@ -6277,6 +6277,37 @@
       ],
       "createdAt": "2026-07-20T02:36:15",
       "updatedAt": "2026-07-20T02:36:15"
+    },
+    {
+      "id": "f968ff4b008d44ffa3b25e32d5d722f6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301059",
+        "Tên Bưu cục": "MinH Xuân",
+        "Họ và tên người sử dụng": "Hoàng Đại Nghĩa",
+        "Mã HRM": "00064329",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-NGHIAHD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro G2",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE91704BS",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.108",
+        "MAC Address": "C8:D9:D2:21:B2:5B"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-20T03:19:59",
+      "updatedAt": "2026-07-20T03:19:59"
     }
   ]
 }

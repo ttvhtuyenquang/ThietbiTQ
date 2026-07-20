@@ -6542,6 +6542,48 @@
       ],
       "createdAt": "2026-07-20T03:26:01",
       "updatedAt": "2026-07-20T03:26:01"
+    },
+    {
+      "id": "66ae4ab2b61b47a6889b30f1a3f1e51a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301220",
+        "Tên Bưu cục": "BC NÔNG TIẾN",
+        "Họ và tên người sử dụng": "LÊ THỊ MAI HƯƠNG",
+        "Mã HRM": "00064672",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-NTN-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LW0",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.58.7",
+        "MAC Address": "F8:ED:FC:6A:6F:4E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "4BARCODE 4B-2054A",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T03:26:37",
+      "updatedAt": "2026-07-20T03:26:37"
     }
   ]
 }

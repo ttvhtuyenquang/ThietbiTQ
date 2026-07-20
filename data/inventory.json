@@ -6857,6 +6857,43 @@
       ],
       "createdAt": "2026-07-20T03:36:03",
       "updatedAt": "2026-07-20T03:36:03"
+    },
+    {
+      "id": "cb85c1abef4d42fb99cee22398e05305",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301373",
+        "Tên Bưu cục": "HƯNG THÀNH",
+        "Họ và tên người sử dụng": "BÙI THỊ THÚY HẰNG",
+        "Mã HRM": "00064625",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN THÀNH PHỐ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-HTH-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 4300 SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH317QVBH",
+        "CPU": "Intel(R) Celeron(R) CPU G1610 @ 2.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "669 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.38.10",
+        "MAC Address": "78:E3:B5:BF:8E:FD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T03:41:51",
+      "updatedAt": "2026-07-20T03:41:51"
     }
   ]
 }

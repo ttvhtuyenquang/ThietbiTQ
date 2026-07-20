@@ -6820,6 +6820,43 @@
       ],
       "createdAt": "2026-07-20T03:35:35",
       "updatedAt": "2026-07-20T03:35:35"
+    },
+    {
+      "id": "dd6f9fa7b70c4043bf9420e7793529f1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Chiêm Hóa",
+        "Tên Xã": "Chiêm Hóa",
+        "Mã Bưu cục": "303826",
+        "Tên Bưu cục": "VP BĐX Chiêm Hóa",
+        "Họ và tên người sử dụng": "Dương Thị Tím",
+        "Mã HRM": "00109302",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-TIMDT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221MY",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.25.42.50",
+        "MAC Address": "10:B6:76:9E:22:D0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T03:36:03",
+      "updatedAt": "2026-07-20T03:36:03"
     }
   ]
 }

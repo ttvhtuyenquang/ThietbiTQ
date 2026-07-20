@@ -6474,6 +6474,37 @@
       "attachments": [],
       "createdAt": "2026-07-20T03:25:10",
       "updatedAt": "2026-07-20T03:25:10"
+    },
+    {
+      "id": "0ae32d6cc2bc4a908fc46191c3088a9a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "xã Chiêm Hóa",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "VP BĐX Chiêm Hóa",
+        "Họ và tên người sử dụng": "Nguyễn Thu Hà",
+        "Mã HRM": "00109297",
+        "Bộ phận / Phòng ban": "Tổ Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-KHL-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132F2",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.159",
+        "MAC Address": "38:22:E2:18:97:93"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-20T03:25:56",
+      "updatedAt": "2026-07-20T03:25:56"
     }
   ]
 }

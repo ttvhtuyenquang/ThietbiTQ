@@ -6626,6 +6626,48 @@
       ],
       "createdAt": "2026-07-20T03:28:40",
       "updatedAt": "2026-07-20T03:28:40"
+    },
+    {
+      "id": "4f74dd164ed84a06bec0d1808b257fa6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301020",
+        "Tên Bưu cục": "301020",
+        "Họ và tên người sử dụng": "TRỊNH THỊ THU NGA",
+        "Mã HRM": "00064650",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-MXN-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro SFF 280 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE443C08X",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.46.10",
+        "MAC Address": "6C:0B:5E:3E:FE:59"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T03:31:07",
+      "updatedAt": "2026-07-20T03:31:07"
     }
   ]
 }

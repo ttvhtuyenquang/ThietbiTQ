@@ -6381,6 +6381,37 @@
       "attachments": [],
       "createdAt": "2026-07-20T03:22:41",
       "updatedAt": "2026-07-20T03:22:41"
+    },
+    {
+      "id": "dd408feb221542fa9daf21464c54de93",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301020",
+        "Tên Bưu cục": "BC MINH XUÂN",
+        "Họ và tên người sử dụng": "VŨ THỊ HỒNG PHƯỢNG",
+        "Mã HRM": "00217712",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-MXN-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221LD",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.46.20",
+        "MAC Address": "10:B6:76:9E:22:9E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-20T03:23:13",
+      "updatedAt": "2026-07-20T03:23:13"
     }
   ]
 }

@@ -7062,6 +7062,43 @@
       ],
       "createdAt": "2026-07-20T04:08:26",
       "updatedAt": "2026-07-20T04:08:26"
+    },
+    {
+      "id": "26b31b19e69642379590b925459cbaa4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302800",
+        "Tên Bưu cục": "BC SƠN DƯƠNG",
+        "Họ và tên người sử dụng": "NÔNG THỊ THU",
+        "Mã HRM": "00083887",
+        "Bộ phận / Phòng ban": "PHÒNG KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-THUNT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LX7",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.36.171",
+        "MAC Address": "48:22:54:C7:08:1F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T04:11:34",
+      "updatedAt": "2026-07-20T04:11:34"
     }
   ]
 }

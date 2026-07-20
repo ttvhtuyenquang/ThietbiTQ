@@ -7172,6 +7172,43 @@
       "attachments": [],
       "createdAt": "2026-07-20T04:20:39",
       "updatedAt": "2026-07-20T04:20:39"
+    },
+    {
+      "id": "11483b65017941c69f3301cb443f0267",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "XÃ ĐÔNG THỌ",
+        "Mã Bưu cục": "303120",
+        "Tên Bưu cục": "BƯU ĐIỆN VH XÃ QUYẾT THẮNG",
+        "Họ và tên người sử dụng": "NGUYỄN HỒNG TUỆ",
+        "Mã HRM": "00064585",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VH XÃ QUYẾT THẮNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "MÁY BÀN",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T04:24:03",
+      "updatedAt": "2026-07-20T04:24:03"
     }
   ]
 }

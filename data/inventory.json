@@ -7251,6 +7251,48 @@
       ],
       "createdAt": "2026-07-20T04:37:44",
       "updatedAt": "2026-07-20T04:37:44"
+    },
+    {
+      "id": "49feda2a646a41e0b10361bb0542d2e3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3014",
+        "Tên Xã": "Xã Kiên Đài",
+        "Mã Bưu cục": "303920",
+        "Tên Bưu cục": "Điểm BĐ VHX Kiên Đài",
+        "Họ và tên người sử dụng": "Ma Xuân Duy",
+        "Mã HRM": "00264934",
+        "Bộ phận / Phòng ban": "Điểm BĐ VHX Kiên Đài",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8K0SAIN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LPT",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "F8:ED:FC:6A:71:7E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T04:37:58",
+      "updatedAt": "2026-07-20T04:37:58"
     }
   ]
 }

@@ -7361,6 +7361,43 @@
       "attachments": [],
       "createdAt": "2026-07-20T05:04:40",
       "updatedAt": "2026-07-20T05:04:40"
+    },
+    {
+      "id": "5f1bbb1ff39343c196fad40038c17716",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "302260",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302260",
+        "Tên Bưu cục": "MỸ BẰNG",
+        "Họ và tên người sử dụng": "HOÀNG THỊ LAN",
+        "Mã HRM": "00276673",
+        "Bộ phận / Phòng ban": "BƯU CỤC MỸ BẰNG PHƯỜNG MỸ LÂM TỈNH TUYÊN QUANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-YSN-MBN-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "F01BHJ2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.55.8",
+        "MAC Address": "48:4D:7E:C9:47:13"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T05:05:12",
+      "updatedAt": "2026-07-20T05:05:12"
     }
   ]
 }

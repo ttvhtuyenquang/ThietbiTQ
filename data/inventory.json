@@ -7293,6 +7293,43 @@
       ],
       "createdAt": "2026-07-20T04:37:58",
       "updatedAt": "2026-07-20T04:37:58"
+    },
+    {
+      "id": "1344b16d099847038db94512cdf705ba",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "CHIÊM HÓA",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "GD2 CHIÊM HÓA",
+        "Họ và tên người sử dụng": "Mã Thị Hòa",
+        "Mã HRM": "00064404",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-04",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LWJ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.81",
+        "MAC Address": "F8:ED:FC:6A:6F:42"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T04:40:47",
+      "updatedAt": "2026-07-20T04:40:47"
     }
   ]
 }

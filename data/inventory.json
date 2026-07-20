@@ -6894,6 +6894,53 @@
       ],
       "createdAt": "2026-07-20T03:41:51",
       "updatedAt": "2026-07-20T03:41:51"
+    },
+    {
+      "id": "a61ede41267346bc92474b5e5dd96ee9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301910",
+        "Tên Bưu cục": "trung môn",
+        "Họ và tên người sử dụng": "phạm thị thúy quyên",
+        "Mã HRM": "00064313",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-YSN-TMN-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "F1T9HJ2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.57.8",
+        "MAC Address": "48:4D:7E:C9:47:03"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T03:53:56",
+      "updatedAt": "2026-07-20T03:53:56"
     }
   ]
 }

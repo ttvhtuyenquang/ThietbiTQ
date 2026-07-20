@@ -6505,6 +6505,43 @@
       "attachments": [],
       "createdAt": "2026-07-20T03:25:56",
       "updatedAt": "2026-07-20T03:25:56"
+    },
+    {
+      "id": "b916e4d262754212813ef31259dc955e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "313900",
+        "Tên Xã": "Hoàng Su Phì",
+        "Mã Bưu cục": "313900",
+        "Tên Bưu cục": "Hoàng Su Phì",
+        "Họ và tên người sử dụng": "Nguyễn Thành Đạt",
+        "Mã HRM": "00021152",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 15 3520",
+        "Năm sản xuất": "",
+        "Serial Number": "BBPKNS3",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-1215U",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "219 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.11.101",
+        "MAC Address": "54:6C:EB:86:44:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon MF210 Series",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T03:26:01",
+      "updatedAt": "2026-07-20T03:26:01"
     }
   ]
 }

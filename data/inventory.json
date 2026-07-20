@@ -7526,35 +7526,35 @@
       "updatedAt": "2026-07-20T08:15:42"
     },
     {
-      "id": "efa09164313b44eea6182242a6ed77a0",
+      "id": "60ef8506d0b2423e98fd4280cc1f1251",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "302800",
-        "Tên Bưu cục": "SƠN DƯƠNG",
-        "Họ và tên người sử dụng": "TRẦN THỊ NGỌC",
-        "Mã HRM": "00254629",
-        "Bộ phận / Phòng ban": "PHÒNG GIAO DỊCH",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "TQG-SDG-GD2-05",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC5231LLC",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft Office Office 64-bit Components 2007",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.25.36.80",
-        "MAC Address": "10:B6:76:9E:C8:A2"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-07-20T08:28:38",
-      "updatedAt": "2026-07-20T08:28:38"
+      "createdAt": "2026-07-20T08:28:40",
+      "updatedAt": "2026-07-20T08:28:40"
     }
   ]
 }

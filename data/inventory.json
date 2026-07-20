@@ -7209,6 +7209,48 @@
       ],
       "createdAt": "2026-07-20T04:24:03",
       "updatedAt": "2026-07-20T04:24:03"
+    },
+    {
+      "id": "0b27a35e0696487aa46358c3cb9b7d07",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Chiêm Hóa",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "GD2 Chiêm Hóa",
+        "Họ và tên người sử dụng": "Triệu Ánh Nguyệt",
+        "Mã HRM": "00100229",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-05",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011336W",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.82",
+        "MAC Address": "38:22:E2:18:88:7F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "APOS/APOS-470S",
+          "serial": "470UH261150168"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "YOUJIE/YJ4600",
+          "serial": "1701082074"
+        }
+      ],
+      "createdAt": "2026-07-20T04:37:44",
+      "updatedAt": "2026-07-20T04:37:44"
     }
   ]
 }

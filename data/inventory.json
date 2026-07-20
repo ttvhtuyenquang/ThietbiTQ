@@ -7435,6 +7435,58 @@
       ],
       "createdAt": "2026-07-20T06:59:32",
       "updatedAt": "2026-07-20T06:59:32"
+    },
+    {
+      "id": "7cad641273aa472aa2f75f4b14a0092f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3012",
+        "Tên Xã": "Chiêm Hóa",
+        "Mã Bưu cục": "303860",
+        "Tên Bưu cục": "Bưu cục Đầm Hồng",
+        "Họ và tên người sử dụng": "Lý Thị Thủy",
+        "Mã HRM": "00064440",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-DHG-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXWG",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.60.8",
+        "MAC Address": "A0:D3:C1:4D:72:54"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "POSBANK",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        },
+        {
+          "type": "scanner",
+          "name": "HP Scanjet",
+          "serial": "G3110"
+        }
+      ],
+      "createdAt": "2026-07-20T07:25:40",
+      "updatedAt": "2026-07-20T07:25:40"
     }
   ]
 }

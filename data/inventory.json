@@ -7025,6 +7025,43 @@
       ],
       "createdAt": "2026-07-20T04:07:31",
       "updatedAt": "2026-07-20T04:07:31"
+    },
+    {
+      "id": "0776aea6eabd4133b837670dcd344035",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302330",
+        "Tên Bưu cục": "Bưu cục Lưỡng Vượng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hải",
+        "Mã HRM": "00064263",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-LVG-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE8192DNZ",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.56.8",
+        "MAC Address": "18:60:24:A6:32:26"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "APOS",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T04:08:26",
+      "updatedAt": "2026-07-20T04:08:26"
     }
   ]
 }

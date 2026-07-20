@@ -7398,6 +7398,43 @@
       ],
       "createdAt": "2026-07-20T05:05:12",
       "updatedAt": "2026-07-20T05:05:12"
+    },
+    {
+      "id": "4532a84545a94c81801f6aad9326be3c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "312950",
+        "Tên Xã": "Lũng phìn",
+        "Mã Bưu cục": "312950",
+        "Tên Bưu cục": "Lũng phìn",
+        "Họ và tên người sử dụng": "Nông thị duy",
+        "Mã HRM": "00021140",
+        "Bộ phận / Phòng ban": "Nhân viên trực điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T06:59:32",
+      "updatedAt": "2026-07-20T06:59:32"
     }
   ]
 }

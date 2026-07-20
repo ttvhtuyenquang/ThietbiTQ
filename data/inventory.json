@@ -6412,6 +6412,37 @@
       "attachments": [],
       "createdAt": "2026-07-20T03:23:13",
       "updatedAt": "2026-07-20T03:23:13"
+    },
+    {
+      "id": "15d6e1982af34d1f96a2a25f185a9c70",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Sơn Thủy",
+        "Mã Bưu cục": "303470",
+        "Tên Bưu cục": "Bưu cục Sơn Nam",
+        "Họ và tên người sử dụng": "Vương Mai Hương",
+        "Mã HRM": "00064538",
+        "Bộ phận / Phòng ban": "Bộ phận tin học",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-HUONGVM",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LQ3",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.36.57",
+        "MAC Address": "F8:ED:FC:6A:71:88"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-20T03:23:36",
+      "updatedAt": "2026-07-20T03:23:36"
     }
   ]
 }

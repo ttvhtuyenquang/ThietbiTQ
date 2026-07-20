@@ -6736,6 +6736,48 @@
       ],
       "createdAt": "2026-07-20T03:31:50",
       "updatedAt": "2026-07-20T03:31:50"
+    },
+    {
+      "id": "1663f3a869f94049a916ebc6f6dac533",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302330",
+        "Tên Bưu cục": "Bưu Cục Lưỡng Vượng",
+        "Họ và tên người sử dụng": "Phạm Thị Thúy Hạnh",
+        "Mã HRM": "00064265",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-LVG-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LJY",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.56.7",
+        "MAC Address": "F8:ED:FC:6A:6F:D3"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "APOS",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZBRS",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-07-20T03:35:15",
+      "updatedAt": "2026-07-20T03:35:15"
     }
   ]
 }

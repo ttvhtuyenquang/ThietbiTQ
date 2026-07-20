@@ -7555,6 +7555,48 @@
       "attachments": [],
       "createdAt": "2026-07-20T08:28:40",
       "updatedAt": "2026-07-20T08:28:40"
+    },
+    {
+      "id": "4ade0f7208174d7f8fe95b69cc36d49b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "302380",
+        "Tên Xã": "Phường Bình Thuận",
+        "Mã Bưu cục": "302380",
+        "Tên Bưu cục": "Điểm BĐVHX THÁI LONG",
+        "Họ và tên người sử dụng": "Nguyễn Thị Trinh",
+        "Mã HRM": "00064657",
+        "Bộ phận / Phòng ban": "VHX THÁI LONG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-TLO-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113385",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.136.40",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-20T09:03:13",
+      "updatedAt": "2026-07-20T09:03:13"
     }
   ]
 }

@@ -6443,6 +6443,37 @@
       "attachments": [],
       "createdAt": "2026-07-20T03:23:36",
       "updatedAt": "2026-07-20T03:23:36"
+    },
+    {
+      "id": "285f3f2f05b148ab8b01a9e2dfa238b9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3047",
+        "Tên Xã": "Bưu điện Phường Minh Xuân",
+        "Mã Bưu cục": "300000",
+        "Tên Bưu cục": "Bc Tuyên Quang",
+        "Họ và tên người sử dụng": "Trương Thị Thanh Mơ",
+        "Mã HRM": "00107172",
+        "Bộ phận / Phòng ban": "Phòng kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TPO-MOTTT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT (Legacy)",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH632S79X",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.107",
+        "MAC Address": "DC:4A:3E:7B:FD:A7"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-20T03:25:10",
+      "updatedAt": "2026-07-20T03:25:10"
     }
   ]
 }

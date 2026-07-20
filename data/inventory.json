@@ -7332,51 +7332,35 @@
       "updatedAt": "2026-07-20T04:40:47"
     },
     {
-      "id": "77c9490bfb014a97aff210642b0694f9",
+      "id": "3e8c8d44ad7445e8be432ce2a2f460da",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "302260",
-        "Tên Bưu cục": "mỹ bằng",
-        "Họ và tên người sử dụng": "hà thị nga",
-        "Mã HRM": "00278023",
-        "Bộ phận / Phòng ban": "bưu cục",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "TQG-YSN-MBG-02",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC52221NQ",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft Office Office 64-bit Components 2007",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.25.55.7",
-        "MAC Address": "10:B6:76:9E:21:B1"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "CANON",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "ZEBRA ZD620",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "SYMBOL",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-07-20T05:04:37",
-      "updatedAt": "2026-07-20T05:04:37"
+      "attachments": [],
+      "createdAt": "2026-07-20T05:04:40",
+      "updatedAt": "2026-07-20T05:04:40"
     }
   ]
 }

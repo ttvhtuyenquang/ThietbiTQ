@@ -7141,6 +7141,37 @@
       ],
       "createdAt": "2026-07-20T04:17:08",
       "updatedAt": "2026-07-20T04:17:08"
+    },
+    {
+      "id": "89393a0482c44ae38f1d12e75b4b614e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302800",
+        "Tên Bưu cục": "BĐX Sơn Dương",
+        "Họ và tên người sử dụng": "Bùi Phương Thảo",
+        "Mã HRM": "00233507",
+        "Bộ phận / Phòng ban": "Phòng Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-THAOBP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LWC",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.36.55",
+        "MAC Address": "F8:ED:FC:6A:6E:1E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-20T04:20:39",
+      "updatedAt": "2026-07-20T04:20:39"
     }
   ]
 }

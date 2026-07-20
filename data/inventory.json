@@ -7487,6 +7487,43 @@
       ],
       "createdAt": "2026-07-20T07:25:40",
       "updatedAt": "2026-07-20T07:25:40"
+    },
+    {
+      "id": "9db020bdb0224b1bbb5022bc4ff76964",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303850",
+        "Tên Bưu cục": "BCP Chiêm Hóa",
+        "Họ và tên người sử dụng": "Hà Đức Ngân",
+        "Mã HRM": "00112594",
+        "Bộ phận / Phòng ban": "Xử lý nghiệp vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-KT2-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXTG",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.60",
+        "MAC Address": "A0:D3:C1:4D:79:0F"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "MOTOROLA",
+          "serial": "1504900500977"
+        }
+      ],
+      "createdAt": "2026-07-20T08:15:42",
+      "updatedAt": "2026-07-20T08:15:42"
     }
   ]
 }

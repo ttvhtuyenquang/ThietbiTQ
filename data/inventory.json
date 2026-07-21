@@ -7696,6 +7696,43 @@
       "attachments": [],
       "createdAt": "2026-07-21T04:25:18",
       "updatedAt": "2026-07-21T04:25:18"
+    },
+    {
+      "id": "16e91867c79c456a872b46848b78e902",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "314860",
+        "Tên Bưu cục": "Bưu cục phát Bắc Quang",
+        "Họ và tên người sử dụng": "Lê Thị Hồng Nhung",
+        "Mã HRM": "00246133",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BQG-TTKT-PC1",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G2 MT (Legacy)",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH628PDJH",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "",
+        "IP Address": "10.29.209.25",
+        "MAC Address": "DC:4A:3E:68:99:BD"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "CCB01-010BT",
+          "serial": "17071B177D"
+        }
+      ],
+      "createdAt": "2026-07-21T11:00:53",
+      "updatedAt": "2026-07-21T11:00:53"
     }
   ]
 }

@@ -7817,6 +7817,48 @@
       ],
       "createdAt": "2026-07-22T11:00:09",
       "updatedAt": "2026-07-22T11:00:09"
+    },
+    {
+      "id": "8dc7971d5bca4f7e9db66d272b212d30",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "314860",
+        "Tên Bưu cục": "Bưu Cục VH Bắc Quang",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HƯỜNG",
+        "Mã HRM": "00021072",
+        "Bộ phận / Phòng ban": "bCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-BVO846F",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2WBC0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.209.53",
+        "MAC Address": "B8:85:84:B1:20:4B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": "D3J204202140"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS2208",
+          "serial": "20206010552591"
+        }
+      ],
+      "createdAt": "2026-07-22T11:02:01",
+      "updatedAt": "2026-07-22T11:02:01"
     }
   ]
 }

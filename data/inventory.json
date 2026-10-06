@@ -7848,6 +7848,37 @@
       "attachments": [],
       "createdAt": "2026-07-22T11:02:04",
       "updatedAt": "2026-07-22T11:02:04"
+    },
+    {
+      "id": "de9eabe839514b3ba0715d946ca8a34f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "301140",
+        "Tên Bưu cục": "VP BĐT Tuyên Quang",
+        "Họ và tên người sử dụng": "Mai Thanh Tùng (test)",
+        "Mã HRM": "00064193",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-KTNV-TUNGMT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXX6",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "689 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "A0:D3:C1:4D:76:CB"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-06T07:17:29",
+      "updatedAt": "2026-10-06T07:17:29"
     }
   ]
 }

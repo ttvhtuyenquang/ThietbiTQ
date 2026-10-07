@@ -7993,6 +7993,37 @@
       "attachments": [],
       "createdAt": "2026-10-07T03:39:37",
       "updatedAt": "2026-10-07T03:39:37"
+    },
+    {
+      "id": "fc75d9fa27cd48c38d01b054bb033929",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3150",
+        "Tên Bưu cục": "Vĩnh Tuy",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Anh Thư",
+        "Mã HRM": "00105346",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "máy in Laser",
+        "Khổ giấy": "",
+        "Hãng": "Canon",
+        "Model": "LBP 2900",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-10-07T03:54:56",
+      "updatedAt": "2026-10-07T03:54:56"
     }
   ]
 }

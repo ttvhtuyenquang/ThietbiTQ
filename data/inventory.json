@@ -8024,6 +8024,38 @@
       "attachments": [],
       "createdAt": "2026-10-07T03:54:56",
       "updatedAt": "2026-10-07T03:54:56"
+    },
+    {
+      "id": "19c564b21fed4cdc9750eaf672100f7c",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3150",
+        "Tên Bưu cục": "Vĩnh Tuy",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Anh Thư",
+        "Mã HRM": "00105346",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân bàn cas",
+        "Hãng sản xuất": "China",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2026-04-04",
+        "Thời hạn kiểm định tiếp theo": "2027-04-04",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Tốt",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-10-07T04:07:13",
+      "updatedAt": "2026-10-07T04:07:13"
     }
   ]
 }

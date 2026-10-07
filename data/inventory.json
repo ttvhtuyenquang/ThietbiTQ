@@ -8088,6 +8088,43 @@
       "attachments": [],
       "createdAt": "2026-10-07T04:19:35",
       "updatedAt": "2026-10-07T04:19:35"
+    },
+    {
+      "id": "45bc24f1cc1f40dd808e9fb113ac7999",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "310100",
+        "Tên Bưu cục": "BĐVHX CÁN TỶ",
+        "Họ và tên người sử dụng": "CHÁNG MÍ MUA",
+        "Mã HRM": ",00267163",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "Máy tính",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "CÂY MÁY TÍNH BÀN",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "MPOST.VN",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-07T06:55:29",
+      "updatedAt": "2026-10-07T06:55:29"
     }
   ]
 }

@@ -7910,6 +7910,58 @@
       "attachments": [],
       "createdAt": "2026-10-07T01:47:02",
       "updatedAt": "2026-10-07T01:47:02"
+    },
+    {
+      "id": "38d20c6afbf24405ad6af2266bf1d41b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "314960",
+        "Tên Xã": "BĐX TÂN QUANG",
+        "Mã Bưu cục": "314960",
+        "Tên Bưu cục": "Tân Quang",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ DUYỄN",
+        "Mã HRM": "00021068",
+        "Bộ phận / Phòng ban": "Bưu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "",
+        "Hãng": "Hp",
+        "Model": "",
+        "Năm sản xuất": "-4",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": "1"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": "1"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": "1"
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-10-07T03:15:29",
+      "updatedAt": "2026-10-07T03:15:29"
     }
   ]
 }

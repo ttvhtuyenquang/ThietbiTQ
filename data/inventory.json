@@ -8187,6 +8187,37 @@
       "attachments": [],
       "createdAt": "2026-10-07T07:13:55",
       "updatedAt": "2026-10-07T07:13:55"
+    },
+    {
+      "id": "250c7668167e4126b55ad91cc90b9d0b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313100",
+        "Tên Bưu cục": "Bưu cục Quản Bạ",
+        "Họ và tên người sử dụng": "LỆNH THỊ LAN",
+        "Mã HRM": "00021220",
+        "Bộ phận / Phòng ban": "BƯU CỤC QUẢN BẠ",
+        "Mã vật tư": "Máy tính",
+        "Tên máy (Hostname)": "GIPCO",
+        "Loại máy": "CÂY MÁY TÍNH BÀN",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-10-07T07:15:13",
+      "updatedAt": "2026-10-07T07:15:13"
     }
   ]
 }

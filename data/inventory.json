@@ -8127,19 +8127,19 @@
       "updatedAt": "2026-10-07T06:55:29"
     },
     {
-      "id": "23e8173cb4dd4dc7877ece891843efe7",
+      "id": "7fd7d56c1b174ffeae84846d07f2a06e",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "003178",
-        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
-        "Mã Bưu cục": "313100",
-        "Tên Bưu cục": "Bưu cục Quản Bạ",
-        "Họ và tên người sử dụng": "Viên Hồng Nhất",
-        "Mã HRM": "00021209",
-        "Bộ phận / Phòng ban": "BƯU CỤC QUẢN BẠ",
-        "Mã vật tư": "Máy tính",
-        "Tên máy (Hostname)": "GIPCO",
-        "Loại máy": "CÂY MÁY TÍNH BÀN",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
         "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
@@ -8153,25 +8153,9 @@
         "IP Address": "",
         "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "CANON2900",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "GK420d",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "ZEBRA; YHDAA",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-10-07T07:11:07",
-      "updatedAt": "2026-10-07T07:11:07"
+      "attachments": [],
+      "createdAt": "2026-10-07T07:11:16",
+      "updatedAt": "2026-10-07T07:11:16"
     }
   ]
 }

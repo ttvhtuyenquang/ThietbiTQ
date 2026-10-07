@@ -8386,6 +8386,37 @@
       ],
       "createdAt": "2026-10-07T09:06:35",
       "updatedAt": "2026-10-07T09:06:35"
+    },
+    {
+      "id": "4e698a1be2274450b425602cff07afcd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313260",
+        "Tên Bưu cục": "BĐVHX QUẢN BẠ",
+        "Họ và tên người sử dụng": "TRƯƠNG VĂN THỜI",
+        "Mã HRM": "00243158",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "Máy tính",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "CÂY MÁY TÍNH BÀN",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-10-07T09:08:04",
+      "updatedAt": "2026-10-07T09:08:04"
     }
   ]
 }

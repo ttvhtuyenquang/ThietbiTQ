@@ -8218,6 +8218,43 @@
       "attachments": [],
       "createdAt": "2026-10-07T07:15:13",
       "updatedAt": "2026-10-07T07:15:13"
+    },
+    {
+      "id": "d2b533c8f21a45d0869bf9d53d07c873",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003178",
+        "Tên Xã": "BƯU ĐIỆN XÃ QUẢN BẠ",
+        "Mã Bưu cục": "313109",
+        "Tên Bưu cục": "VP BĐH Quản Bạ",
+        "Họ và tên người sử dụng": "Viên Hồng Nhất",
+        "Mã HRM": "0021209",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "Máy tính",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "CÂY MÁY TÍNH BÀN",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "MF4870DN"
+        }
+      ],
+      "createdAt": "2026-10-07T07:17:46",
+      "updatedAt": "2026-10-07T07:17:46"
     }
   ]
 }

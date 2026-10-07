@@ -7879,6 +7879,37 @@
       "attachments": [],
       "createdAt": "2026-10-06T07:17:29",
       "updatedAt": "2026-10-06T07:17:29"
+    },
+    {
+      "id": "bc01e27d72fd4930b6567f61fb478085",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "123456",
+        "Tên Bưu cục": "VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Quý",
+        "Mã HRM": "00099592",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3090",
+        "Năm sản xuất": "",
+        "Serial Number": "88CPYQ3",
+        "CPU": "Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1168 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.103.182",
+        "MAC Address": "00:BE:43:E3:FF:1D"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-07T01:47:02",
+      "updatedAt": "2026-10-07T01:47:02"
     }
   ]
 }

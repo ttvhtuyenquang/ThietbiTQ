@@ -8642,6 +8642,53 @@
       ],
       "createdAt": "2026-10-08T03:37:59",
       "updatedAt": "2026-10-08T03:37:59"
+    },
+    {
+      "id": "20f167c0e5704dabadf80a8d974c27ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302860",
+        "Tên Bưu cục": "BCP Sơn Dương",
+        "Họ và tên người sử dụng": "Hoàng Đức Thịnh",
+        "Mã HRM": "00064592",
+        "Bộ phận / Phòng ban": "Bưu cục Vận hành Sơn Dương",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-KT2-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B16J862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.36.60",
+        "MAC Address": "64:00:6A:06:2B:61"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": "GK420d"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "motorola",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-08T03:40:52",
+      "updatedAt": "2026-10-08T03:40:52"
     }
   ]
 }

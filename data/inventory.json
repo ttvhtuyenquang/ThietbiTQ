@@ -8600,6 +8600,48 @@
       ],
       "createdAt": "2026-10-08T03:34:23",
       "updatedAt": "2026-10-08T03:34:23"
+    },
+    {
+      "id": "6e23a7007f714c8787c18302f9e23570",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302830",
+        "Tên Bưu cục": "KT Sơn Dương",
+        "Họ và tên người sử dụng": "Phạm Thanh Sơn",
+        "Mã HRM": "00064592",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Sơn Dương",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-KT2-02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132XK",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.36.61",
+        "MAC Address": "38:22:E2:18:91:1C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": "zd620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-08T03:37:59",
+      "updatedAt": "2026-10-08T03:37:59"
     }
   ]
 }

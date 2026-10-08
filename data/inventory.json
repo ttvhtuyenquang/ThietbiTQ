@@ -8848,35 +8848,35 @@
       "updatedAt": "2026-10-08T09:54:42"
     },
     {
-      "id": "b4a7b759994249eaab52ffb024895b57",
-      "category": "4A. Máy In Laser",
+      "id": "7e967c30a2c9462ebf74976a92b29ca1",
+      "category": "3. Máy Tính",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "303850",
-        "Tên Bưu cục": "BCP Chiêm Hóa",
-        "Họ và tên người sử dụng": "Hà Đức Ngân",
-        "Mã HRM": "00112594",
-        "Bộ phận / Phòng ban": "Xử lý nghiệp vụ",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "canon2900",
-        "Khổ giấy": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
         "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
-        "Kết nối": "",
-        "Nước sản xuất": "",
-        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
-        "Năm sử dụng": "",
-        "Thời gian bảo hành (Còn/Hết)": ""
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-10-08T09:58:32",
-      "updatedAt": "2026-10-08T09:58:32"
+      "createdAt": "2026-10-08T09:58:34",
+      "updatedAt": "2026-10-08T09:58:34"
     }
   ]
 }

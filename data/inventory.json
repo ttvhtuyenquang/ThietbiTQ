@@ -8485,6 +8485,43 @@
       ],
       "createdAt": "2026-10-08T01:39:02",
       "updatedAt": "2026-10-08T01:39:02"
+    },
+    {
+      "id": "227d3cb5254d4a99b38698fe718a3e5b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "302860",
+        "Tên Bưu cục": "BCP Sơn Dương",
+        "Họ và tên người sử dụng": "Đoàn Thị Thùy Linh",
+        "Mã HRM": "00064540",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Sơn Dương",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-SDG-LINHDTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH436SXTH",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.36.21",
+        "MAC Address": "A0:D3:C1:4D:79:F1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-08T03:22:19",
+      "updatedAt": "2026-10-08T03:22:19"
     }
   ]
 }

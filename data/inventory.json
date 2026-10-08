@@ -8419,46 +8419,35 @@
       "updatedAt": "2026-10-07T09:08:04"
     },
     {
-      "id": "7a30cf4037ce43dab7bb52af559e164c",
+      "id": "2cf0c482be214030a4f0b410ab625cf9",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
-        "Tên Xã": "Xuân Vân",
-        "Mã Bưu cục": "301820",
-        "Tên Bưu cục": "Xuân Vân",
-        "Họ và tên người sử dụng": "Nguyễn Hoài Yến",
-        "Mã HRM": "00105867",
-        "Bộ phận / Phòng ban": "BC Xuân Vân",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "TQG-YSN-XVN-02",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC011334F",
-        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "224 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
-        "Office": "Microsoft Office Office 64-bit Components 2007",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.200.136.15",
-        "MAC Address": "00:09:0F:AA:00:01"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-10-08T01:38:05",
-      "updatedAt": "2026-10-08T01:38:05"
+      "attachments": [],
+      "createdAt": "2026-10-08T01:38:07",
+      "updatedAt": "2026-10-08T01:38:07"
     }
   ]
 }

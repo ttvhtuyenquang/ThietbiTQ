@@ -9790,6 +9790,58 @@
       ],
       "createdAt": "2026-10-09T06:59:28",
       "updatedAt": "2026-10-09T06:59:28"
+    },
+    {
+      "id": "ee1344a1bc784d01a38ae3c4a214da63",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "310000",
+        "Tên Bưu cục": "Cầu Trắng",
+        "Họ và tên người sử dụng": "Hoàng Thị Luật",
+        "Mã HRM": "00021353",
+        "Bộ phận / Phòng ban": "giao dịch Cầu Trắng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BC-CAUTRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B5GK862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.16299",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "McAfee Endpoint Security",
+        "IP Address": "10.29.92.60",
+        "MAC Address": "64:00:6A:06:2B:B6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon lbp151dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ats",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "ninda-không rõ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T07:02:10",
+      "updatedAt": "2026-10-09T07:02:10"
     }
   ]
 }

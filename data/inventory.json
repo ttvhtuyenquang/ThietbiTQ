@@ -9003,6 +9003,48 @@
       ],
       "createdAt": "2026-10-09T01:21:40",
       "updatedAt": "2026-10-09T01:21:40"
+    },
+    {
+      "id": "bd479767fd9a416d91a2efa4d94cecaa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311051",
+        "Tên Bưu cục": "NGỌC HÀ",
+        "Họ và tên người sử dụng": "VŨ THỊ HẰNG",
+        "Mã HRM": "00021356",
+        "Bộ phận / Phòng ban": "Bưu cục Ngọc Hà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BTGROUP10",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.91.52",
+        "MAC Address": "30:56:0F:54:CC:A5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "CAS - K RÕ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T01:41:37",
+      "updatedAt": "2026-10-09T01:41:37"
     }
   ]
 }

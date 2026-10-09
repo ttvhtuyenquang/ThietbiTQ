@@ -8961,6 +8961,48 @@
       ],
       "createdAt": "2026-10-09T01:11:13",
       "updatedAt": "2026-10-09T01:11:13"
+    },
+    {
+      "id": "e58b3afebe824450aad85c58676b8209",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311051",
+        "Tên Bưu cục": "Ngọc Hà",
+        "Họ và tên người sử dụng": "Dùng chung",
+        "Mã HRM": "00021337",
+        "Bộ phận / Phòng ban": "quầy giao dịch Ngọc Hà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3080",
+        "Năm sản xuất": "",
+        "Serial Number": "GQSWRD3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1031 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.91.53",
+        "MAC Address": "70:B5:E8:5B:C8:47"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ATS",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T01:21:40",
+      "updatedAt": "2026-10-09T01:21:40"
     }
   ]
 }

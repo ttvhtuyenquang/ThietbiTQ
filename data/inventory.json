@@ -9894,6 +9894,37 @@
       ],
       "createdAt": "2026-10-09T07:06:35",
       "updatedAt": "2026-10-09T07:06:35"
+    },
+    {
+      "id": "7329a052857f480788daf3bd4e20f2c2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "310000",
+        "Tên Bưu cục": "Cầu trắng",
+        "Họ và tên người sử dụng": "Dùng chung",
+        "Mã HRM": "00021353",
+        "Bộ phận / Phòng ban": "giao dịch cầu trắng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-CTG-GD1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B07T8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Internet Security, Windows Defender, FortiClient AntiVirus, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows, Kaspersky Internet Security",
+        "IP Address": "10.29.92.18",
+        "MAC Address": "B8:85:84:AF:47:45"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-09T07:11:19",
+      "updatedAt": "2026-10-09T07:11:19"
     }
   ]
 }

@@ -9842,6 +9842,58 @@
       ],
       "createdAt": "2026-10-09T07:02:10",
       "updatedAt": "2026-10-09T07:02:10"
+    },
+    {
+      "id": "4ca38ec11bee4f469d937724b02f0004",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "310000",
+        "Tên Bưu cục": "Cầu Trắng",
+        "Họ và tên người sử dụng": "Lê Ngọc Ánh",
+        "Mã HRM": "00095309",
+        "Bộ phận / Phòng ban": "giao dịch cầu trắng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "OS",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G7400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.29.92.59",
+        "MAC Address": "30:56:0F:19:70:38"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ATS",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "cas",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T07:06:35",
+      "updatedAt": "2026-10-09T07:06:35"
     }
   ]
 }

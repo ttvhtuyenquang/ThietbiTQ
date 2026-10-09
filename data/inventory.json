@@ -9956,6 +9956,43 @@
       "attachments": [],
       "createdAt": "2026-10-09T07:16:36",
       "updatedAt": "2026-10-09T07:16:36"
+    },
+    {
+      "id": "287cea99a1814a418e028ac1ab2839b9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "310000",
+        "Tên Bưu cục": "Cầu Trắng",
+        "Họ và tên người sử dụng": "Phạm Thị Trà My",
+        "Mã HRM": "00021343",
+        "Bộ phận / Phòng ban": "Hà Giang 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-MYPTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZXV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 IoT Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.92.138",
+        "MAC Address": "B8:85:84:AF:46:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T07:21:11",
+      "updatedAt": "2026-10-09T07:21:11"
     }
   ]
 }

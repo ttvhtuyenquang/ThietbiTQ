@@ -9551,6 +9551,37 @@
       "attachments": [],
       "createdAt": "2026-10-09T03:42:31",
       "updatedAt": "2026-10-09T03:42:31"
+    },
+    {
+      "id": "62f07aef950c4852934aa8197de197f5",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "314800",
+        "Tên Bưu cục": "Bắc Quang",
+        "Họ và tên người sử dụng": "Đồng Thị Thanh THủy",
+        "Mã HRM": "00021077",
+        "Bộ phận / Phòng ban": "Bưu điện xã Bắc Quang",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in",
+        "Khổ giấy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-10-09T03:43:40",
+      "updatedAt": "2026-10-09T03:43:40"
     }
   ]
 }

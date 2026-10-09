@@ -9613,6 +9613,58 @@
       "attachments": [],
       "createdAt": "2026-10-09T03:44:42",
       "updatedAt": "2026-10-09T03:44:42"
+    },
+    {
+      "id": "d9a639e6708f4b6793d31f9818fc4276",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311000",
+        "Tên Bưu cục": "Công Viên",
+        "Họ và tên người sử dụng": "Phạm Thị Hồng Nhung",
+        "Mã HRM": "00021354",
+        "Bộ phận / Phòng ban": "Phường Hà GIang 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-CVN-GD1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZYK862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.30.15",
+        "MAC Address": "64:00:6A:01:E3:B3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "Electronic balance",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T03:44:33",
+      "updatedAt": "2026-10-09T03:44:33"
     }
   ]
 }

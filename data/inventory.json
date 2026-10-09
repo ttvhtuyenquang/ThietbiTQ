@@ -9696,6 +9696,48 @@
       "attachments": [],
       "createdAt": "2026-10-09T03:45:47",
       "updatedAt": "2026-10-09T03:45:47"
+    },
+    {
+      "id": "7wyry2fw3al000000000000000000000",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "310000",
+        "Tên Bưu cục": "Công Viên",
+        "Họ và tên người sử dụng": "Lưu Lan Hương",
+        "Mã HRM": "00021342",
+        "Bộ phận / Phòng ban": "Hà Giang 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-CVN-GD3",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9YSQ8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.30.10",
+        "MAC Address": "B8:85:84:AF:45:26"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "CAS-không rõ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T03:56:24",
+      "updatedAt": "2026-10-09T03:56:24"
     }
   ]
 }

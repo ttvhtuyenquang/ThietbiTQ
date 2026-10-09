@@ -9452,6 +9452,43 @@
       ],
       "createdAt": "2026-10-09T03:18:07",
       "updatedAt": "2026-10-09T03:18:07"
+    },
+    {
+      "id": "77d3e8f8b3224cb5ae86c898ab396c6f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311020",
+        "Tên Bưu cục": "MINH KHAI",
+        "Họ và tên người sử dụng": "PHẠM THỊ NGỌC HẠNH",
+        "Mã HRM": "00020939",
+        "Bộ phận / Phòng ban": "Bưu điện Phường Hà Giang 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B1GP8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.10.111",
+        "MAC Address": "B8:85:84:B1:1E:F8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T03:37:42",
+      "updatedAt": "2026-10-09T03:37:42"
     }
   ]
 }

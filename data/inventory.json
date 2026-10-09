@@ -9582,6 +9582,37 @@
       "attachments": [],
       "createdAt": "2026-10-09T03:43:40",
       "updatedAt": "2026-10-09T03:43:40"
+    },
+    {
+      "id": "bd2d65fbf1474337a05797d6af0a2fb1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3184",
+        "Tên Xã": "Xã Bắc Quang",
+        "Mã Bưu cục": "314800",
+        "Tên Bưu cục": "Bắc Quang",
+        "Họ và tên người sử dụng": "Đồng Thị Thanh THủy",
+        "Mã HRM": "00021077",
+        "Bộ phận / Phòng ban": "Bưu điện xã Bắc Quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BQG-BDH-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9W6Q8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.29.210.219",
+        "MAC Address": "B8:85:84:B1:27:AD"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-09T03:44:42",
+      "updatedAt": "2026-10-09T03:44:42"
     }
   ]
 }

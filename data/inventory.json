@@ -9045,6 +9045,53 @@
       ],
       "createdAt": "2026-10-09T01:41:37",
       "updatedAt": "2026-10-09T01:41:37"
+    },
+    {
+      "id": "57c9e1d2211a4797afb8ed949a3ef936",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311090",
+        "Tên Bưu cục": "Quang Trung",
+        "Họ và tên người sử dụng": "Hoàng Thị Len",
+        "Mã HRM": "00262388",
+        "Bộ phận / Phòng ban": "Bưu cục Quang trung",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-QTG-GDV",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B17T8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 IoT Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "B8:85:84:B1:2A:18"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "ELECTRONIC BALANCE- không rõ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T01:49:52",
+      "updatedAt": "2026-10-09T01:49:52"
     }
   ]
 }

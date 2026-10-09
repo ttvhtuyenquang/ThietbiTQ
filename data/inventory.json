@@ -9259,6 +9259,53 @@
       ],
       "createdAt": "2026-10-09T02:42:50",
       "updatedAt": "2026-10-09T02:42:50"
+    },
+    {
+      "id": "86dc294634dd4d4b877ec03fe6013278",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311080",
+        "Tên Bưu cục": "TRẦN PHÚ",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "00021362",
+        "Bộ phận / Phòng ban": "GIAO DỊCH TRẦN PHÚ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-YBN-GD2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9XMP8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.103.215",
+        "MAC Address": "B8:85:84:AF:46:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "GT800",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T02:50:15",
+      "updatedAt": "2026-10-09T02:50:15"
     }
   ]
 }

@@ -9925,6 +9925,37 @@
       "attachments": [],
       "createdAt": "2026-10-09T07:11:19",
       "updatedAt": "2026-10-09T07:11:19"
+    },
+    {
+      "id": "6d32c178bab04274bd627700a02a676e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "310000",
+        "Tên Bưu cục": "Cầu Trắng",
+        "Họ và tên người sử dụng": "Đỗ Thu Nga",
+        "Mã HRM": "00021344",
+        "Bộ phận / Phòng ban": "Hà Giang 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-CTG-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9WXR8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "227 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.92.13",
+        "MAC Address": "B8:85:84:B1:29:47"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-09T07:16:36",
+      "updatedAt": "2026-10-09T07:16:36"
     }
   ]
 }

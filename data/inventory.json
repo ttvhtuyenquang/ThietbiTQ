@@ -10071,6 +10071,58 @@
       "attachments": [],
       "createdAt": "2026-10-09T07:46:05",
       "updatedAt": "2026-10-09T07:46:05"
+    },
+    {
+      "id": "33a9d7441e6e44feb1269b7ec488a816",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "314960",
+        "Tên Xã": "BĐX TÂN QUANG",
+        "Mã Bưu cục": "314960",
+        "Tên Bưu cục": "Tân Quang",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ DUYỄN",
+        "Mã HRM": "00021068",
+        "Bộ phận / Phòng ban": "Bưu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-U7J7BHA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221QD",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "10:B6:76:9E:20:CE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T07:54:48",
+      "updatedAt": "2026-10-09T07:54:48"
     }
   ]
 }

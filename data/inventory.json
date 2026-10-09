@@ -9353,6 +9353,58 @@
       ],
       "createdAt": "2026-10-09T02:52:05",
       "updatedAt": "2026-10-09T02:52:05"
+    },
+    {
+      "id": "y4c9ec62i48000000000000000000000",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311020",
+        "Tên Bưu cục": "Minh Khai",
+        "Họ và tên người sử dụng": "Dương Thị Sinh",
+        "Mã HRM": "00021216",
+        "Bộ phận / Phòng ban": "Giao dịch Minh Khai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-MKI-GD2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "J8Z8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.10.5",
+        "MAC Address": "F8:BC:12:A6:17:84"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon F166500",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "GT800",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symboy",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "cas- không rõ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T03:06:31",
+      "updatedAt": "2026-10-09T03:06:31"
     }
   ]
 }

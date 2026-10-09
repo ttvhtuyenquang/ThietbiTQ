@@ -9207,6 +9207,58 @@
       ],
       "createdAt": "2026-10-09T02:36:06",
       "updatedAt": "2026-10-09T02:36:06"
+    },
+    {
+      "id": "c2a625ceee2147c0a7556e9e443fa76e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311080",
+        "Tên Bưu cục": "TRẦN PHÚ",
+        "Họ và tên người sử dụng": "MUA THỊ TÂM",
+        "Mã HRM": "00021362",
+        "Bộ phận / Phòng ban": "GIAO DỊCH TRẦN PHÚ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-TPU-GD2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B0GP8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.103.214",
+        "MAC Address": "B8:85:84:B0:FF:D8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZBRA",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "CAS- KHÔNG RÕ",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T02:42:50",
+      "updatedAt": "2026-10-09T02:42:50"
     }
   ]
 }

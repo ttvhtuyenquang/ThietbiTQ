@@ -9139,6 +9139,37 @@
       ],
       "createdAt": "2026-10-09T02:00:02",
       "updatedAt": "2026-10-09T02:00:02"
+    },
+    {
+      "id": "a5a946569193481e84867c1850205648",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "GD2 Chiêm Hóa",
+        "Họ và tên người sử dụng": "Lưu Anh Phương",
+        "Mã HRM": "00064416",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LG0",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.10",
+        "MAC Address": "F8:ED:FC:6A:6F:EF"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-09T02:24:06",
+      "updatedAt": "2026-10-09T02:24:06"
     }
   ]
 }

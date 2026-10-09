@@ -9993,6 +9993,53 @@
       ],
       "createdAt": "2026-10-09T07:21:11",
       "updatedAt": "2026-10-09T07:21:11"
+    },
+    {
+      "id": "9c7c61781677414ab83fd5ba7c2f8972",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3149",
+        "Tên Xã": "Hùng An",
+        "Mã Bưu cục": "315010",
+        "Tên Bưu cục": "BƯU CỤC HÙNG AN",
+        "Họ và tên người sử dụng": "Nguyễn Thị Giàng",
+        "Mã HRM": "00021069",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BQG-HAN-GD1",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.60.11",
+        "MAC Address": "B0:6E:BF:BC:AC:51"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANAON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "MODEL",
+          "serial": "MODEL"
+        }
+      ],
+      "createdAt": "2026-10-09T07:27:25",
+      "updatedAt": "2026-10-09T07:27:25"
     }
   ]
 }

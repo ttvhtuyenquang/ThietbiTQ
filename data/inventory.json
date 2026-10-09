@@ -9405,6 +9405,53 @@
       ],
       "createdAt": "2026-10-09T03:06:31",
       "updatedAt": "2026-10-09T03:06:31"
+    },
+    {
+      "id": "4979da6316a740c3927e8212ed203e51",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "311020",
+        "Tên Bưu cục": "MINH KHAI",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Nga",
+        "Mã HRM": "00020928",
+        "Bộ phận / Phòng ban": "Giao dịch Minh Khai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HG-BDTP-MKI-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZWV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.29.10.4",
+        "MAC Address": "B8:85:84:AF:46:9C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon M402dn",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Ready",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-09T03:18:07",
+      "updatedAt": "2026-10-09T03:18:07"
     }
   ]
 }

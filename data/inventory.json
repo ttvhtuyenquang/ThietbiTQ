@@ -10553,6 +10553,37 @@
       "attachments": [],
       "createdAt": "2026-10-14T02:34:57",
       "updatedAt": "2026-10-14T02:34:57"
+    },
+    {
+      "id": "f77ce24284204ac898e3ef645401c9d9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3022",
+        "Tên Xã": "Bưu điện xã Hàm Yên",
+        "Mã Bưu cục": "305500",
+        "Tên Bưu cục": "Bưu cục Hàm Yên",
+        "Họ và tên người sử dụng": "Bàn Thị Tinh",
+        "Mã HRM": "00243922",
+        "Bộ phận / Phòng ban": "Nhân viên Hành chính công",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-TINHBT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LQ8",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.52",
+        "MAC Address": "F8:ED:FC:6A:71:22"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-14T04:35:34",
+      "updatedAt": "2026-10-14T04:35:34"
     }
   ]
 }

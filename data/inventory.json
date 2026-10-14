@@ -10522,6 +10522,37 @@
       "attachments": [],
       "createdAt": "2026-10-14T02:25:53",
       "updatedAt": "2026-10-14T02:25:53"
+    },
+    {
+      "id": "5e61839f20ab414c8e68c0b1790b9183",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "305740",
+        "Tên Xã": "Yên Phú",
+        "Mã Bưu cục": "305740",
+        "Tên Bưu cục": "BCC - VHX Yên Phú",
+        "Họ và tên người sử dụng": "Phạm Thị Hoa",
+        "Mã HRM": "00064356",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-YPU-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011339N",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.136.133",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-14T02:34:57",
+      "updatedAt": "2026-10-14T02:34:57"
     }
   ]
 }

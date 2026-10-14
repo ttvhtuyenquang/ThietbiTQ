@@ -10429,6 +10429,37 @@
       "attachments": [],
       "createdAt": "2026-10-14T02:14:01",
       "updatedAt": "2026-10-14T02:14:01"
+    },
+    {
+      "id": "443f41642b6e4affa23d8bc8a6cb9e2a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "305570",
+        "Tên Xã": "Bình Xa",
+        "Mã Bưu cục": "305570",
+        "Tên Bưu cục": "BĐ - VHX Minh Hương",
+        "Họ và tên người sử dụng": "Đặng Thị Thủy",
+        "Mã HRM": "00279771",
+        "Bộ phận / Phòng ban": "Nhân viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-MHG-01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LVC",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "F8:ED:FC:6A:71:04"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-14T02:19:52",
+      "updatedAt": "2026-10-14T02:19:52"
     }
   ]
 }

@@ -10460,6 +10460,37 @@
       "attachments": [],
       "createdAt": "2026-10-14T02:19:52",
       "updatedAt": "2026-10-14T02:19:52"
+    },
+    {
+      "id": "34916741100641ae88ba3e3a60ea9068",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "305800",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "305800",
+        "Tên Bưu cục": "BĐ - VHX Nhân Mục",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Nghiệp",
+        "Mã HRM": "00064360",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-NMC-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH447SHT6",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.23",
+        "MAC Address": "34:64:A9:0E:D4:1A"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-14T02:21:38",
+      "updatedAt": "2026-10-14T02:21:38"
     }
   ]
 }

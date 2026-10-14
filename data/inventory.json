@@ -10201,6 +10201,37 @@
       "attachments": [],
       "createdAt": "2026-10-12T02:01:01",
       "updatedAt": "2026-10-12T02:01:01"
+    },
+    {
+      "id": "921e84e6bbdd443f983d0dec2ebb181f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Hàm Yên",
+        "Tên Xã": "Hàm Yên",
+        "Mã Bưu cục": "3055",
+        "Tên Bưu cục": "Hàm Yên",
+        "Họ và tên người sử dụng": "Đinh Thị Quỳnh",
+        "Mã HRM": "00217440",
+        "Bộ phận / Phòng ban": "Đối soát - kiêm thủ quỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-HYN-QUYNHDT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro G2",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE917046L",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.44.54",
+        "MAC Address": "C8:D9:D2:21:93:11"
+      },
+      "attachments": [],
+      "createdAt": "2026-10-14T01:45:16",
+      "updatedAt": "2026-10-14T01:45:16"
     }
   ]
 }

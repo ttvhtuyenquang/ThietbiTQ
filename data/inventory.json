@@ -10657,6 +10657,48 @@
       "attachments": [],
       "createdAt": "2026-10-15T02:22:13",
       "updatedAt": "2026-10-15T02:22:13"
+    },
+    {
+      "id": "a8bcc9cee452428cb231223c1c69d196",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "303800",
+        "Tên Bưu cục": "GD2 Chiêm Hóa",
+        "Họ và tên người sử dụng": "Triệu Ánh Nguyệt",
+        "Mã HRM": "00100229",
+        "Bộ phận / Phòng ban": "Nhân viên Hành Chính công",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-CHA-GD2-05",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011336W",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.42.82",
+        "MAC Address": "38:22:E2:18:88:7F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "apos",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "youjie",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-10-16T00:45:33",
+      "updatedAt": "2026-10-16T00:45:33"
     }
   ]
 }
